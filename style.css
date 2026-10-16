@@ -74,3 +74,27 @@ footer a { color: var(--muted); }
 .sq-final { text-align: center; margin: 44px auto 30px; }
 .sq-final h2 { font-size: clamp(26px, 4vw, 38px); margin: 0 0 18px; }
 .sq-cta { display: inline-block; padding: 14px 30px; border-radius: 999px; font-weight: 800; font-size: 18px; text-decoration: none; color: #fff; background: linear-gradient(120deg, #ff8a3d, #f0407f 55%, #8a52ff); box-shadow: 0 10px 24px rgba(240, 64, 127, .3); }
+
+/* Videos (build-home.py + video.js): tap to play in a dialog; without JS the links open the MP4. */
+.sq-videos { display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; margin: 26px auto 34px; max-width: 760px; }
+.sq-vcard { --h: 300px; position: relative; display: block; flex: none; height: var(--h); aspect-ratio: var(--ar, 9 / 16); border-radius: 22px; overflow: hidden; background: #2a2440; box-shadow: 0 12px 28px rgba(120, 50, 100, .18); text-decoration: none; }
+.sq-vcard.wide { --h: 196px; --ar: 16 / 9; }
+.sq-vcard.feed { --ar: 4 / 5; }
+.sq-vcard img { display: block; width: 100%; height: 100%; object-fit: cover; transition: transform .3s; }
+.sq-vcard:hover img { transform: scale(1.04); }
+.sq-vcard .play { position: absolute; left: 50%; top: 50%; width: 64px; height: 64px; margin: -32px 0 0 -32px; border-radius: 50%; background: rgba(255, 255, 255, .92); box-shadow: 0 6px 18px rgba(0, 0, 0, .25); }
+.sq-vcard .play::after { content: ""; position: absolute; left: 25px; top: 18px; border-left: 22px solid #f0407f; border-top: 14px solid transparent; border-bottom: 14px solid transparent; }
+.sq-vcard .cap { position: absolute; left: 0; right: 0; bottom: 0; padding: 30px 12px 10px; color: #fff; font-weight: 750; font-size: 14px; line-height: 1.25; text-align: center; background: linear-gradient(transparent, rgba(20, 10, 40, .72)); }
+.sq-vcard:focus-visible { outline: 4px solid #f0407f; outline-offset: 3px; }
+.vbox { position: fixed; inset: 0; z-index: 50; background: rgba(16, 10, 30, .88); display: grid; place-items: center; padding: 20px; }
+.vbox[hidden] { display: none; }
+.vbox video { width: min(94vw, 88vh * 16 / 9, 1280px); height: auto; aspect-ratio: 16 / 9; border-radius: 18px; background: #000; }
+.vbox video.tall { width: min(94vw, 88vh * 9 / 16, 720px); aspect-ratio: 9 / 16; }
+.vbox video.feed { width: min(94vw, 88vh * 4 / 5, 864px); aspect-ratio: 4 / 5; }
+.vclose { position: fixed; top: 14px; right: 14px; inset-inline-end: 14px; width: 48px; height: 48px; border: 0; border-radius: 50%; background: #fff; color: #222; font-size: 30px; line-height: 1; cursor: pointer; }
+body.vopen { overflow: hidden; }
+@media (max-width: 640px) {
+  .sq-videos { flex-wrap: nowrap; justify-content: flex-start; overflow-x: auto; scroll-snap-type: x mandatory; padding: 4px 4px 12px; margin-left: -20px; margin-right: -20px; padding-left: 20px; padding-right: 20px; }
+  .sq-vcard { --h: 300px; scroll-snap-align: start; }
+  .sq-vcard.wide { --h: 300px; }
+}

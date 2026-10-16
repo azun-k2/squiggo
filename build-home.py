@@ -13,6 +13,20 @@ def dev(up, n, cls):
     return f'<div class="dev {cls}"><img src="{up}img/play-{n}.jpg" alt="" width="1100" height="768" loading="lazy"></div>'
 
 
+# The promotion videos (Squiggo/Scripts/promo-videos.py), language-neutral: one copy in video/ for every page.
+# Each card's title reuses a string the page already has (a section heading or the tagline).
+VIDEOS = [("draw", "tall", 0), ("buddy", "tall", 3), ("scenes", "feed", 1), ("tools", "wide", 2), ("teaser", "wide", "tagline")]
+
+
+def videos(d, up):
+    out = []
+    for name, shape, title in VIDEOS:
+        t = e(d["tagline"] if title == "tagline" else d["sections"][title]["h"])
+        out.append(f'<a class="sq-vcard {shape}" href="{up}video/{name}.mp4" data-video data-title="{t}" data-poster="{up}video/{name}.jpg" data-shape="{shape}">'
+                   f'<img src="{up}video/{name}.jpg" alt="" loading="lazy"><span class="play"></span><span class="cap">{t}</span></a>')
+    return f'<div class="sq-videos" data-close="{e(d["close"])}">{"".join(out)}</div>\n<script src="{up}video.js" defer></script>'
+
+
 def section(s):
     chips = "".join(f"<li>{e(c)}</li>" for c in s.get("chips", []))
     chips = f'\n  <ul class="sq-chips">{chips}</ul>' if chips else ""
@@ -29,6 +43,7 @@ def page_html(d, up):
 <p class="sq-sub">{e(d["sub"])}</p>
 <p class="sq-note">{e(d["note"])}</p>
 <ul class="sq-stats">{stats}</ul>
+{videos(d, up)}
 
 <!-- family:shot --><div class="gallery">{dev(up, 2, "c")}{dev(up, 1, "l")}{dev(up, 4, "r")}</div>
 {section(s[0])}

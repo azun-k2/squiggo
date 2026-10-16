@@ -21,5 +21,6 @@
     ["Where do the pictures go?", "They stay on your device. A grown-up can share one on purpose."],
     ["Does the photo buddy upload my photo?", "No. The subject is lifted off the background on your device."]
   ]},
-  "final": {"h": "Give your child a drawing buddy.", "cta": "Get Squiggo"}
+  "final": {"h": "Give your child a drawing buddy.", "cta": "Get Squiggo"},
+  "close": "Close video"
 }
