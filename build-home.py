@@ -45,11 +45,11 @@ def page_html(d, up):
 <ul class="sq-stats">{stats}</ul>
 {videos(d, up)}
 
-<!-- family:shot --><div class="gallery">{dev(up, 2, "c")}{dev(up, 1, "l")}{dev(up, 4, "r")}</div>
+<!-- family:shot --><div class="gallery">{dev(up, 2, "c")}{dev(up, 1, "l")}{dev(up, 4, "r")}</div><!-- /family:shot -->
 {section(s[0])}
 {section(s[1])}
 {section(s[2])}
-<!-- family:shot2 --><div class="pair">{dev(up, 3, "")}{dev(up, 5, "")}</div>
+<!-- family:shot2 --><div class="pair">{dev(up, 3, "")}{dev(up, 5, "")}</div><!-- /family:shot2 -->
 
 {section(s[3])}
 {section(s[4])}
