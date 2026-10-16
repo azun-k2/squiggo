@@ -55,3 +55,22 @@ nav.links a {
 }
 footer { text-align: center; color: var(--muted); font-size: 14px; margin-top: 34px; }
 footer a { color: var(--muted); }
+
+/* Richer home page (build-home.py) */
+.sq-sub { text-align: center; font-size: clamp(17px, 2.2vw, 21px); color: var(--muted); max-width: 30em; margin: 22px auto 6px; }
+.sq-note { text-align: center; font-weight: 700; margin: 0 auto 22px; max-width: 34em; }
+.sq-stats { list-style: none; display: flex; flex-wrap: wrap; justify-content: center; gap: 14px; padding: 0; margin: 0 auto 8px; max-width: 760px; }
+.sq-stats li { flex: 1 1 130px; margin: 0; text-align: center; padding: 14px 10px; border-radius: 22px; background: var(--card); box-shadow: 0 8px 24px rgba(120, 50, 100, .08); }
+.sq-stats b { display: block; font-size: 34px; line-height: 1.1; color: var(--accent); }
+.sq-stats span { display: block; font-size: 15px; color: var(--muted); font-weight: 650; }
+.sq-sec { position: relative; }
+.sq-ico { display: grid; place-items: center; width: 54px; height: 54px; border-radius: 18px; font-size: 30px; margin-bottom: 14px; background: color-mix(in srgb, var(--accent) 14%, var(--card)); }
+.sq-chips { list-style: none; display: flex; flex-wrap: wrap; gap: 8px; padding: 0; margin: 16px 0 0; }
+.sq-chips li { margin: 0; padding: 7px 15px; border-radius: 999px; font-weight: 700; font-size: 15px; background: color-mix(in srgb, var(--accent) 12%, var(--card)); border: 2px solid color-mix(in srgb, var(--accent) 28%, transparent); }
+.sq-band { background: color-mix(in srgb, #10b5a6 12%, var(--card)); }
+.sq-faq details { border-top: 1px solid var(--line); padding: 4px 0; }
+.sq-faq summary { cursor: pointer; font-weight: 750; font-size: 17px; padding: 12px 0; }
+.sq-faq details p { margin: 0 0 12px; color: var(--muted); }
+.sq-final { text-align: center; margin: 44px auto 30px; }
+.sq-final h2 { font-size: clamp(26px, 4vw, 38px); margin: 0 0 18px; }
+.sq-cta { display: inline-block; padding: 14px 30px; border-radius: 999px; font-weight: 800; font-size: 18px; text-decoration: none; color: #fff; background: linear-gradient(120deg, #ff8a3d, #f0407f 55%, #8a52ff); box-shadow: 0 10px 24px rgba(240, 64, 127, .3); }
