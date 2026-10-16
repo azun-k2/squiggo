@@ -1,0 +1,102 @@
+{
+  "tagline": "Menggambar bersama teman yang ramah.",
+  "sub": "Seorang teman yang ramah menunjukkan cara menggambar, selangkah demi selangkah, dan menyemangati setiap gambar yang selesai.",
+  "note": "Tanpa iklan. Tanpa akun. Tanpa jaringan. Beli sekali, untuk Mac, iPhone, dan iPad.",
+  "stats": [
+    [
+      "60",
+      "pelajaran"
+    ],
+    [
+      "12",
+      "adegan"
+    ],
+    [
+      "6",
+      "suara tombol"
+    ],
+    [
+      "0",
+      "iklan"
+    ]
+  ],
+  "sections": [
+    {
+      "icon": "✏️",
+      "h": "Menggambar bersama, selangkah demi selangkah",
+      "p": "Ikuti garis putus-putus, ketuk lingkaran, warnai bentuknya. Teman Anda menyebutkan tiap langkah dengan suara dan merayakannya dengan satu sampai tiga bintang. Penilaian tidak pernah bilang “salah”: garis yang bergoyang pun tetap dihitung.",
+      "chips": [
+        "Mudah",
+        "Sedang",
+        "Sulit",
+        "Teman-teman kartun",
+        "Teman buku cerita"
+      ]
+    },
+    {
+      "icon": "🌈",
+      "h": "Menggambar dengan caramu sendiri",
+      "p": "Pilih pelajaran apa saja atau salah satu dari 12 adegan, dari desa yang cerah sampai perjalanan ke luar angkasa, dan garis putus-putus halusnya muncul di halaman Anda. Gunakan semua alat, warna, dan zoom. Gambar kecil yang sudah jadi melayang di samping halaman untuk diintip."
+    },
+    {
+      "icon": "🖍️",
+      "h": "Kotak alat gambar sungguhan",
+      "p": "Krayon, spidol, kuas cat, glitter, dan enam bentuk stiker. Pelangi warna dan pencampur warna: ketuk dua warna atau lebih dan lihat keduanya berbaur. Urungkan dan ulangi apa saja, hapus hanya tinta yang disentuh, lalu pindahkan, ubah ukuran, putar, ganti warna, atau salin gambar apa pun."
+    },
+    {
+      "icon": "🐻",
+      "h": "Buat teman Anda sendiri",
+      "p": "Pilih teman bawaan, gambar sendiri, atau ubah foto menjadi teman. Squiggo memisahkan objek dari latar langsung di perangkat Anda. Tambahkan mata goyang, mulut, alis, rambut, dan kacamata, pilih cara bergeraknya, lalu beri nama yang akan diucapkannya."
+    },
+    {
+      "icon": "🖼️",
+      "h": "Dindingku",
+      "p": "Gambar yang sudah jadi dipajang di dinding dengan paku payung dan bintang. Buka satu, geser ke berikutnya, atau salin untuk terus mewarnai."
+    },
+    {
+      "icon": "🔔",
+      "h": "Suara lembut, suara yang ramah",
+      "p": "Setiap ketukan memantul dan memainkan suara lembut. Pilih satu dari enam gaya atau matikan. Teman Anda membacakan tiap langkah, dan satu sakelar mematikan suaranya."
+    }
+  ],
+  "privacy": {
+    "icon": "🔒",
+    "h": "Privat sejak dirancang",
+    "pHtml": "Tanpa iklan, tanpa akun, tanpa pelacakan, dan sama sekali tanpa akses jaringan. Gambar tetap berada di perangkat kecuali orang dewasa membagikannya. Squiggo tidak pernah meminta akses ke pustaka foto Anda: pemilih sistem hanya membagikan satu gambar yang Anda pilih. <a href=\"privacy.html\">Kebijakan privasi</a> lengkap menjelaskan hal yang sama dengan lebih rinci."
+  },
+  "mac": {
+    "icon": "💻",
+    "h": "Dibuat untuk Mac",
+    "p": "Menggambar dengan mouse atau trackpad, cubit untuk zoom, pakai pintasan keyboard, dan seret gambar dari Finder. Tersedia juga di iPhone dan iPad."
+  },
+  "requires": "Memerlukan iPhone atau iPad dengan iOS 17 atau lebih baru, atau Mac dengan macOS 14 Sonoma atau lebih baru. Tablet Android segera hadir.",
+  "faq": {
+    "h": "Pertanyaan dari para orang tua",
+    "items": [
+      [
+        "Untuk usia berapa?",
+        "Untuk anak yang suka menggambar, dengan orang dewasa di dekatnya saat memulai."
+      ],
+      [
+        "Apakah perlu internet?",
+        "Tidak. Squiggo tidak punya akses jaringan."
+      ],
+      [
+        "Apakah ada langganan?",
+        "Tidak. Beli sekali dan menjadi milik Anda di semua perangkat."
+      ],
+      [
+        "Ke mana gambarnya pergi?",
+        "Tetap di perangkat Anda. Orang dewasa dapat membagikannya dengan sengaja."
+      ],
+      [
+        "Apakah teman dari foto mengunggah foto saya?",
+        "Tidak. Objek dipisahkan dari latar di perangkat Anda."
+      ]
+    ]
+  },
+  "final": {
+    "h": "Hadiahkan anak Anda teman menggambar.",
+    "cta": "Dapatkan Squiggo"
+  }
+}

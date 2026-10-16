@@ -1,0 +1,102 @@
+{
+  "tagline": "Tegn sammen med en lille ven.",
+  "sub": "En venlig ven viser, hvordan man tegner, trin for trin, og hepper på hvert færdigt billede.",
+  "note": "Ingen reklamer. Ingen konti. Intet netværk. Køb én gang, til Mac, iPhone og iPad.",
+  "stats": [
+    [
+      "60",
+      "lektioner"
+    ],
+    [
+      "12",
+      "scener"
+    ],
+    [
+      "6",
+      "knaplyde"
+    ],
+    [
+      "0",
+      "reklamer"
+    ]
+  ],
+  "sections": [
+    {
+      "icon": "✏️",
+      "h": "Tegn med, trin for trin",
+      "p": "Følg den prikkede linje, tryk på ringene, farvelæg figurerne. Vennen siger hvert trin højt og fejrer det med en til tre stjerner. Pointgivningen siger aldrig „forkert“: en rystende streg tæller også med.",
+      "chips": [
+        "Let",
+        "Mellem",
+        "Svær",
+        "Tegnefilmsvenner",
+        "Eventyrvenner"
+      ]
+    },
+    {
+      "icon": "🌈",
+      "h": "Tegn på din egen måde",
+      "p": "Vælg en hvilken som helst lektion eller en af 12 scener, fra en solrig landsby til en rumrejse, så dukker de fine prikkede linjer op på din side. Brug alle værktøjer, farver og zoom. Et lille færdigt billede svæver ved siden af siden, så du kan kigge på det."
+    },
+    {
+      "icon": "🖍️",
+      "h": "En æske med rigtigt kunstværktøj",
+      "p": "Farvekridt, tusch, pensel, glimmer og seks klistermærkeformer. En regnbue af farver og en farveblander: tryk på to eller flere farver og se dem blande sig. Fortryd og gentag alt, slet kun den streg, du rører ved, og flyt, ændr størrelse på, drej, farvelæg igen eller kopiér enhver tegning."
+    },
+    {
+      "icon": "🐻",
+      "h": "Lav din egen ven",
+      "p": "Vælg en indbygget ven, tegn en, eller gør et foto til en ven. Squiggo løfter motivet fri af baggrunden direkte på din enhed. Tilføj rullende øjne, mund, øjenbryn, hår og briller, vælg hvordan den bevæger sig, og giv den et navn, den siger højt."
+    },
+    {
+      "icon": "🖼️",
+      "h": "Min væg",
+      "p": "Færdige billeder hænges op på en væg med nåle og stjerner. Åbn et, stryg videre til det næste, eller kopiér det for at male videre."
+    },
+    {
+      "icon": "🔔",
+      "h": "Bløde lyde, blid stemme",
+      "p": "Hvert tryk hopper og giver en blid lyd. Vælg en af seks stilarter, eller slå dem fra. Vennen læser hvert trin højt, og med én kontakt slår du stemmen fra."
+    }
+  ],
+  "privacy": {
+    "icon": "🔒",
+    "h": "Privat fra start",
+    "pHtml": "Ingen reklamer, ingen konti, ingen sporing og slet ingen adgang til netværk. Billeder bliver på din enhed, medmindre en voksen deler et. Squiggo beder aldrig om adgang til dit fotobibliotek: systemets vælger deler kun det ene billede, du vælger. Den fulde <a href=\"privacy.html\">privatlivspolitik</a> siger det samme mere detaljeret."
+  },
+  "mac": {
+    "icon": "💻",
+    "h": "Lavet til Mac",
+    "p": "Tegn med musen eller pegefeltet, knib for at zoome, brug tastaturgenveje, og træk et billede ind fra Finder. Findes også til iPhone og iPad."
+  },
+  "requires": "Kræver en iPhone eller iPad med iOS 17 eller nyere, eller en Mac med macOS 14 Sonoma eller nyere. Android-tablets er på vej.",
+  "faq": {
+    "h": "Spørgsmål, voksne stiller",
+    "items": [
+      [
+        "Hvilken alder er den til?",
+        "Børn, der kan lide at tegne, med en voksen i nærheden til at komme i gang."
+      ],
+      [
+        "Skal den bruge internet?",
+        "Nej. Squiggo har ingen adgang til netværk."
+      ],
+      [
+        "Er der abonnement?",
+        "Nej. Køb én gang, så er den din på alle enheder."
+      ],
+      [
+        "Hvor bliver billederne af?",
+        "De bliver på din enhed. En voksen kan dele et med vilje."
+      ],
+      [
+        "Uploader fotovennen mit foto?",
+        "Nej. Motivet løftes fri af baggrunden på din enhed."
+      ]
+    ]
+  },
+  "final": {
+    "h": "Giv dit barn en tegneven.",
+    "cta": "Hent Squiggo"
+  }
+}

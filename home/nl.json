@@ -1,0 +1,102 @@
+{
+  "tagline": "Teken mee met een vriendelijk maatje.",
+  "sub": "Een vriendelijk maatje laat stap voor stap zien hoe je tekent en juicht bij elke afgemaakte tekening.",
+  "note": "Geen advertenties. Geen accounts. Geen netwerk. Eenmaal kopen, voor Mac, iPhone en iPad.",
+  "stats": [
+    [
+      "60",
+      "lessen"
+    ],
+    [
+      "12",
+      "taferelen"
+    ],
+    [
+      "6",
+      "knopgeluidjes"
+    ],
+    [
+      "0",
+      "advertenties"
+    ]
+  ],
+  "sections": [
+    {
+      "icon": "✏️",
+      "h": "Teken mee, stap voor stap",
+      "p": "Volg de stippellijn, tik op de ringen, kleur de vormen in. Het maatje zegt elke stap hardop en viert het met één tot drie sterren. De score zegt nooit «fout»: ook een wiebelige lijn telt mee.",
+      "chips": [
+        "Makkelijk",
+        "Middel",
+        "Lastig",
+        "Tekenfiguren",
+        "Sprookjesvrienden"
+      ]
+    },
+    {
+      "icon": "🌈",
+      "h": "Teken op je eigen manier",
+      "p": "Kies een les of een van de 12 taferelen, van een zonnig dorp tot een ruimtereis, en de fijne stippellijnen verschijnen op je pagina. Gebruik alle gereedschappen, kleuren en zoom. Een klein afgemaakt plaatje zweeft naast de pagina om even te bekijken."
+    },
+    {
+      "icon": "🖍️",
+      "h": "Een doos met echt tekengereedschap",
+      "p": "Wasco, stift, verfkwast, glitter en zes stickervormen. Een regenboog aan kleuren en een kleurenmenger: tik op twee of meer kleuren en zie ze vloeien. Alles ongedaan maken en opnieuw doen, alleen wissen waar je aanraakt, en elke tekening verplaatsen, vergroten of verkleinen, draaien, een andere kleur geven of kopiëren."
+    },
+    {
+      "icon": "🐻",
+      "h": "Maak je eigen maatje",
+      "p": "Kies een ingebouwd maatje, teken er een, of verander een foto in een maatje. Squiggo haalt het onderwerp direct op je apparaat van de achtergrond los. Voeg wiebelogen, een mond, wenkbrauwen, haar en een bril toe, kies hoe het beweegt en geef het een naam die het hardop zegt."
+    },
+    {
+      "icon": "🖼️",
+      "h": "Mijn muur",
+      "p": "Afgemaakte tekeningen gaan op een muur met punaises en sterren. Open er een, veeg naar de volgende of kopieer hem om verder te kleuren."
+    },
+    {
+      "icon": "🔔",
+      "h": "Zachte geluidjes, lieve stem",
+      "p": "Elke tik veert en speelt een zacht geluidje. Kies een van zes stijlen of zet ze uit. Het maatje leest elke stap hardop voor, en met één schakelaar zet je de stem uit."
+    }
+  ],
+  "privacy": {
+    "icon": "🔒",
+    "h": "Privé door ontwerp",
+    "pHtml": "Geen advertenties, geen accounts, geen tracking en helemaal geen netwerktoegang. Tekeningen blijven op het apparaat tenzij een volwassene er een deelt. Squiggo vraagt nooit om je fotobibliotheek: de systeemkiezer deelt alleen de ene afbeelding die je kiest. Het volledige <a href=\"privacy.html\">privacybeleid</a> zegt hetzelfde, maar uitgebreider."
+  },
+  "mac": {
+    "icon": "💻",
+    "h": "Gemaakt voor de Mac",
+    "p": "Teken met de muis of het trackpad, knijp om te zoomen, gebruik de sneltoetsen en sleep een tekening vanuit de Finder. Ook op iPhone en iPad."
+  },
+  "requires": "Vereist een iPhone of iPad met iOS 17 of nieuwer, of een Mac met macOS 14 Sonoma of nieuwer. Android-tablets komen eraan.",
+  "faq": {
+    "h": "Vragen die ouders stellen",
+    "items": [
+      [
+        "Voor welke leeftijd is het?",
+        "Voor kinderen die graag tekenen, met in het begin een volwassene in de buurt."
+      ],
+      [
+        "Heeft het internet nodig?",
+        "Nee. Squiggo heeft geen netwerktoegang."
+      ],
+      [
+        "Is er een abonnement?",
+        "Nee. Eenmaal kopen en het is van jou op elk apparaat."
+      ],
+      [
+        "Waar blijven de tekeningen?",
+        "Ze blijven op je apparaat. Een volwassene kan er bewust een delen."
+      ],
+      [
+        "Uploadt het fotomaatje mijn foto?",
+        "Nee. Het onderwerp wordt op je apparaat van de achtergrond losgehaald."
+      ]
+    ]
+  },
+  "final": {
+    "h": "Geef je kind een tekenmaatje.",
+    "cta": "Haal Squiggo"
+  }
+}

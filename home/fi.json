@@ -1,0 +1,102 @@
+{
+  "tagline": "Piirrä pienen ystävän kanssa.",
+  "sub": "Ystävä näyttää askel askeleelta, miten piirretään, ja juhlii jokaista valmista kuvaa.",
+  "note": "Ei mainoksia. Ei tilejä. Ei verkkoa. Osta kerran, Macille, iPhonelle ja iPadille.",
+  "stats": [
+    [
+      "60",
+      "oppituntia"
+    ],
+    [
+      "12",
+      "kohtausta"
+    ],
+    [
+      "6",
+      "painikeääntä"
+    ],
+    [
+      "0",
+      "mainosta"
+    ]
+  ],
+  "sections": [
+    {
+      "icon": "✏️",
+      "h": "Piirrä mukana, askel askeleelta",
+      "p": "Seuraa pisteviivaa, napauta renkaita, värjää muodot. Ystävä sanoo jokaisen askeleen ääneen ja juhlii yhdellä–kolmella tähdellä. Pisteytys ei koskaan sano ”väärin”: huojuva viivakin lasketaan.",
+      "chips": [
+        "Helppo",
+        "Keskikokoinen",
+        "Hankala",
+        "Sarjakuvakaverit",
+        "Satukaverit"
+      ]
+    },
+    {
+      "icon": "🌈",
+      "h": "Piirrä omalla tavallasi",
+      "p": "Valitse mikä tahansa oppitunti tai yksi 12 kohtauksesta, aurinkoisesta kylästä avaruusmatkaan, ja sen hienot pisteviivat ilmestyvät sivullesi. Käytä kaikkia työkaluja, värejä ja zoomausta. Pieni valmis kuva leijuu sivun vieressä vilkaistavaksi."
+    },
+    {
+      "icon": "🖍️",
+      "h": "Laatikollinen oikeita taidetyökaluja",
+      "p": "Vahaliitu, tussi, sivellin, kimallus ja kuusi tarramuotoa. Sateenkaari värejä ja värinsekoitin: napauta kahta tai useampaa väriä ja katso, kuinka ne sekoittuvat. Kumoa ja tee uudelleen kaikki, pyyhi vain se muste, johon kosket, ja siirrä, muuta kokoa, käännä, väritä uudelleen tai kopioi mikä tahansa piirros."
+    },
+    {
+      "icon": "🐻",
+      "h": "Tee oma ystäväsi",
+      "p": "Valitse valmis ystävä, piirrä sellainen tai muuta valokuva ystäväksi. Squiggo erottaa kohteen taustasta suoraan laitteellasi. Lisää pyörivät silmät, suu, kulmakarvat, hiukset ja lasit, valitse, miten se liikkuu, ja anna sille nimi, jonka se sanoo ääneen."
+    },
+    {
+      "icon": "🖼️",
+      "h": "Seinäni",
+      "p": "Valmiit kuvat nousevat seinälle nastoilla ja tähdillä. Avaa yksi, pyyhkäise seuraavaan tai kopioi se jatkaaksesi maalaamista."
+    },
+    {
+      "icon": "🔔",
+      "h": "Pehmeät äänet, ystävällinen ääni",
+      "p": "Jokainen napautus pomppaa ja soittaa lempeän äänen. Valitse yksi kuudesta tyylistä tai kytke ne pois. Ystävä lukee jokaisen askeleen ääneen, ja yhdellä kytkimellä ääni menee pois."
+    }
+  ],
+  "privacy": {
+    "icon": "🔒",
+    "h": "Yksityisyys suunnittelun lähtökohtana",
+    "pHtml": "Ei mainoksia, ei tilejä, ei seurantaa eikä lainkaan verkkoyhteyttä. Kuvat pysyvät laitteellasi, ellei aikuinen jaa niitä. Squiggo ei koskaan pyydä pääsyä kuvakirjastoosi: järjestelmän valitsin jakaa vain sen yhden kuvan, jonka valitset. Täydellinen <a href=\"privacy.html\">tietosuojakäytäntö</a> kertoo saman tarkemmin."
+  },
+  "mac": {
+    "icon": "💻",
+    "h": "Tehty Macille",
+    "p": "Piirrä hiirellä tai ohjauslevyllä, zoomaa nipistämällä, käytä pikanäppäimiä ja vedä kuva sisään Finderista. Saatavilla myös iPhonelle ja iPadille."
+  },
+  "requires": "Vaatii iPhonen tai iPadin, jossa on iOS 17 tai uudempi, tai Macin, jossa on macOS 14 Sonoma tai uudempi. Android-tabletit ovat tulossa.",
+  "faq": {
+    "h": "Kysymyksiä, joita aikuiset kysyvät",
+    "items": [
+      [
+        "Minkä ikäisille se on?",
+        "Lapsille, jotka tykkäävät piirtää, aikuisen avulla alkuun."
+      ],
+      [
+        "Tarvitseeko se internetin?",
+        "Ei. Squiggolla ei ole verkkoyhteyttä."
+      ],
+      [
+        "Onko siinä tilausta?",
+        "Ei. Osta kerran, niin se on sinun kaikilla laitteilla."
+      ],
+      [
+        "Minne kuvat menevät?",
+        "Ne pysyvät laitteellasi. Aikuinen voi jakaa yhden tarkoituksella."
+      ],
+      [
+        "Lähettääkö valokuvaystävä kuvani verkkoon?",
+        "Ei. Kohde erotetaan taustasta laitteellasi."
+      ]
+    ]
+  },
+  "final": {
+    "h": "Anna lapsellesi piirtoystävä.",
+    "cta": "Hanki Squiggo"
+  }
+}

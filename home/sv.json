@@ -1,0 +1,102 @@
+{
+  "tagline": "Rita tillsammans med en liten kompis.",
+  "sub": "En vänlig kompis visar hur man ritar, ett steg i taget, och hejar på varje färdig bild.",
+  "note": "Inga annonser. Inga konton. Inget nätverk. Köp en gång, för Mac, iPhone och iPad.",
+  "stats": [
+    [
+      "60",
+      "lektioner"
+    ],
+    [
+      "12",
+      "scener"
+    ],
+    [
+      "6",
+      "knappljud"
+    ],
+    [
+      "0",
+      "annonser"
+    ]
+  ],
+  "sections": [
+    {
+      "icon": "✏️",
+      "h": "Rita med, steg för steg",
+      "p": "Följ den prickade linjen, tryck på ringarna, färglägg formerna. Kompisen säger varje steg högt och firar med en till tre stjärnor. Poängen säger aldrig «fel»: en darrig linje räknas också.",
+      "chips": [
+        "Lätt",
+        "Medel",
+        "Klurigt",
+        "Tecknade kompisar",
+        "Sagokompisar"
+      ]
+    },
+    {
+      "icon": "🌈",
+      "h": "Rita på ditt sätt",
+      "p": "Välj vilken lektion som helst eller en av 12 scener, från en solig by till en rymdresa, så dyker de fina prickade linjerna upp på sidan. Använd alla verktyg, färger och zoom. En liten färdig bild svävar vid sidan av sidan så att du kan kika."
+    },
+    {
+      "icon": "🖍️",
+      "h": "En låda med riktiga konstverktyg",
+      "p": "Krita, tuschpenna, pensel, glitter och sex klistermärkesformer. En regnbåge av färger och en färgblandare: tryck på två eller fler färger och se dem blandas. Ångra och gör om allt, sudda bara bläcket du rör vid, och flytta, ändra storlek på, vrid, färga om eller kopiera vilken teckning som helst."
+    },
+    {
+      "icon": "🐻",
+      "h": "Skapa din egen kompis",
+      "p": "Välj en inbyggd kompis, rita en eller förvandla ett foto till en kompis. Squiggo lyfter fram motivet från bakgrunden direkt på enheten. Lägg till googly eyes, mun, ögonbryn, hår och glasögon, välj hur den rör sig och ge den ett namn som den säger högt."
+    },
+    {
+      "icon": "🖼️",
+      "h": "Min vägg",
+      "p": "Färdiga bilder sätts upp på en vägg med nålar och stjärnor. Öppna en, svep till nästa eller kopiera den för att måla vidare."
+    },
+    {
+      "icon": "🔔",
+      "h": "Mjuka ljud, vänlig röst",
+      "p": "Varje tryck studsar och spelar ett milt ljud. Välj en av sex stilar eller stäng av dem. Kompisen läser varje steg högt, och en knapp stänger av rösten."
+    }
+  ],
+  "privacy": {
+    "icon": "🔒",
+    "h": "Privat från grunden",
+    "pHtml": "Inga annonser, inga konton, ingen spårning och ingen nätverksåtkomst alls. Bilderna stannar på enheten om inte en vuxen delar en. Squiggo ber aldrig om ditt fotobibliotek: systemets väljare delar bara den enda bild du väljer. Den fullständiga <a href=\"privacy.html\">integritetspolicyn</a> säger samma sak mer utförligt."
+  },
+  "mac": {
+    "icon": "💻",
+    "h": "Gjord för Mac",
+    "p": "Rita med musen eller styrplattan, zooma med nyp, använd kortkommandona och dra in en bild från Finder. Finns också på iPhone och iPad."
+  },
+  "requires": "Kräver en iPhone eller iPad med iOS 17 eller senare, eller en Mac med macOS 14 Sonoma eller senare. Android-surfplattor kommer snart.",
+  "faq": {
+    "h": "Frågor som vuxna ställer",
+    "items": [
+      [
+        "Vilka åldrar är den för?",
+        "Barn som gillar att rita, med en vuxen i närheten i början."
+      ],
+      [
+        "Behövs internet?",
+        "Nej. Squiggo har ingen nätverksåtkomst."
+      ],
+      [
+        "Finns det en prenumeration?",
+        "Nej. Köp en gång så är den din på alla enheter."
+      ],
+      [
+        "Vart tar bilderna vägen?",
+        "De stannar på din enhet. En vuxen kan dela en med flit."
+      ],
+      [
+        "Laddar fotokompisen upp mitt foto?",
+        "Nej. Motivet lyfts fram från bakgrunden på enheten."
+      ]
+    ]
+  },
+  "final": {
+    "h": "Ge ditt barn en ritkompis.",
+    "cta": "Hämta Squiggo"
+  }
+}

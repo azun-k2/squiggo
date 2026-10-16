@@ -1,0 +1,102 @@
+{
+  "tagline": "Crtaj uz prijateljskog drugara.",
+  "sub": "Prijateljski drugar pokazuje kako crtati, korak po korak, i slavi svaku dovršenu sliku.",
+  "note": "Bez oglasa. Bez računa. Bez mreže. Kupite jednom, za Mac, iPhone i iPad.",
+  "stats": [
+    [
+      "60",
+      "lekcija"
+    ],
+    [
+      "12",
+      "scena"
+    ],
+    [
+      "6",
+      "zvukova tipki"
+    ],
+    [
+      "0",
+      "oglasa"
+    ]
+  ],
+  "sections": [
+    {
+      "icon": "✏️",
+      "h": "Crtajte zajedno, korak po korak",
+      "p": "Pratite točkastu crtu, dodirnite krugove, obojite oblike. Drugar naglas izgovara svaki korak i slavi s jednom do tri zvjezdice. Bodovanje nikad ne kaže „pogrešno”: i drhtava crta se računa.",
+      "chips": [
+        "Lako",
+        "Srednje",
+        "Zahtjevno",
+        "Crtani prijatelji",
+        "Prijatelji iz slikovnice"
+      ]
+    },
+    {
+      "icon": "🌈",
+      "h": "Crtajte na svoj način",
+      "p": "Odaberite bilo koju lekciju ili jednu od 12 scena, od sunčanog sela do putovanja u svemir, i njezine fine točkaste crte pojave se na vašoj stranici. Koristite sve alate, boje i zumiranje. Mala gotova slika lebdi uz stranicu da je možete pogledati."
+    },
+    {
+      "icon": "🖍️",
+      "h": "Kutija pravih alata za crtanje",
+      "p": "Bojica, flomaster, kist, šljokice i šest oblika naljepnica. Duga boja i miješalica boja: dodirnite dvije ili više boja i gledajte kako se miješaju. Poništite i ponovite sve, brišite samo tintu koju dodirnete te pomičite, mijenjajte veličinu, okrećite, prebojite ili kopirajte bilo koji crtež."
+    },
+    {
+      "icon": "🐻",
+      "h": "Napravite vlastitog drugara",
+      "p": "Odaberite ugrađenog drugara, nacrtajte ga ili pretvorite fotografiju u drugara. Squiggo odvaja lik od pozadine izravno na vašem uređaju. Dodajte oči, usta, obrve, kosu i naočale, odaberite kako se kreće i dajte mu ime koje će izgovarati naglas."
+    },
+    {
+      "icon": "🖼️",
+      "h": "Moj zid",
+      "p": "Gotove slike idu na zid s pribadačama i zvjezdicama. Otvorite jednu, prijeđite na sljedeću ili je kopirajte da biste je nastavili bojiti."
+    },
+    {
+      "icon": "🔔",
+      "h": "Meki zvukovi, ljubazan glas",
+      "p": "Svaki dodir poskakuje i svira nježan zvuk. Odaberite jedan od šest stilova ili ih isključite. Drugar naglas čita svaki korak, a jedna sklopka isključuje glas."
+    }
+  ],
+  "privacy": {
+    "icon": "🔒",
+    "h": "Privatno po dizajnu",
+    "pHtml": "Bez oglasa, računa, praćenja i bez ikakvog pristupa mreži. Slike ostaju na vašem uređaju osim ako ih odrasla osoba podijeli. Squiggo nikad ne traži vašu biblioteku fotografija: sistemski birač dijeli samo jednu sliku koju odaberete. Cjelovita <a href=\"privacy.html\">pravila privatnosti</a> govore isto, podrobnije."
+  },
+  "mac": {
+    "icon": "💻",
+    "h": "Napravljeno za Mac",
+    "p": "Crtajte mišem ili trackpadom, zumirajte štipanjem, koristite tipkovničke prečace i povucite sliku iz Findera. Također na iPhoneu i iPadu."
+  },
+  "requires": "Potreban je iPhone ili iPad s iOS 17 ili novijim, odnosno Mac s macOS 14 Sonoma ili novijim. Android tableti stižu uskoro.",
+  "faq": {
+    "h": "Pitanja koja postavljaju odrasli",
+    "items": [
+      [
+        "Za koji je uzrast?",
+        "Za djecu koja vole crtati, uz odraslu osobu u blizini na početku."
+      ],
+      [
+        "Treba li internet?",
+        "Ne. Squiggo nema pristup mreži."
+      ],
+      [
+        "Ima li pretplate?",
+        "Ne. Kupite jednom i vaše je na svim uređajima."
+      ],
+      [
+        "Kamo idu slike?",
+        "Ostaju na vašem uređaju. Odrasla osoba može podijeliti sliku namjerno."
+      ],
+      [
+        "Šalje li drugar iz fotografije moju fotografiju?",
+        "Ne. Lik se odvaja od pozadine na vašem uređaju."
+      ]
+    ]
+  },
+  "final": {
+    "h": "Podarite svom djetetu drugara za crtanje.",
+    "cta": "Nabavite Squiggo"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "tagline": "Desenhe com um amiguinho.",
+  "sub": "Um amigo simpático mostra como desenhar, passo a passo, e festeja cada desenho terminado.",
+  "note": "Sem anúncios. Sem contas. Sem rede. Compre uma vez, no Mac, iPhone e iPad.",
+  "stats": [
+    [
+      "60",
+      "lições"
+    ],
+    [
+      "12",
+      "cenas"
+    ],
+    [
+      "6",
+      "sons de botões"
+    ],
+    [
+      "0",
+      "anúncios"
+    ]
+  ],
+  "sections": [
+    {
+      "icon": "✏️",
+      "h": "Desenhe a acompanhar, passo a passo",
+      "p": "Siga a linha tracejada, toque nos círculos, pinte as formas. O amigo diz cada passo em voz alta e festeja com uma a três estrelas. A pontuação nunca diz «errado»: uma linha tremida também conta.",
+      "chips": [
+        "Fácil",
+        "Médio",
+        "Difícil",
+        "Amigos dos desenhos animados",
+        "Amigos dos livros de histórias"
+      ]
+    },
+    {
+      "icon": "🌈",
+      "h": "Desenhe à sua maneira",
+      "p": "Escolha qualquer lição ou uma de 12 cenas, de uma aldeia ao sol a uma viagem ao espaço, e as linhas tracejadas finas aparecem na sua página. Use todas as ferramentas, cores e o zoom. Um pequeno desenho terminado flutua ao lado da página para espreitar."
+    },
+    {
+      "icon": "🖍️",
+      "h": "Uma caixa de ferramentas a sério",
+      "p": "Giz de cera, marcador, pincel, purpurina e seis formas de autocolantes. Um arco-íris de cores e um misturador: toque em duas ou mais cores e veja-as misturar-se. Anule e refaça tudo, apague só a tinta que tocar, e mova, redimensione, rode, mude a cor ou copie qualquer desenho."
+    },
+    {
+      "icon": "🐻",
+      "h": "Crie o seu próprio amigo",
+      "p": "Escolha um amigo incluído, desenhe um, ou transforme uma fotografia num amigo. O Squiggo separa o motivo do fundo diretamente no dispositivo. Acrescente olhos grandes, boca, sobrancelhas, cabelo e óculos, escolha como se mexe e dê-lhe um nome que ele dirá em voz alta."
+    },
+    {
+      "icon": "🖼️",
+      "h": "A minha parede",
+      "p": "Os desenhos terminados vão para uma parede, com alfinetes e estrelas. Abra um, deslize para o seguinte, ou copie-o para continuar a pintar."
+    },
+    {
+      "icon": "🔔",
+      "h": "Sons suaves, voz amável",
+      "p": "Cada toque salta e faz um som suave. Escolha um de seis estilos ou desative-os. O amigo lê cada passo em voz alta, e um interruptor desliga a voz."
+    }
+  ],
+  "privacy": {
+    "icon": "🔒",
+    "h": "Privado por conceção",
+    "pHtml": "Sem anúncios, sem contas, sem rastreamento e sem qualquer acesso à rede. Os desenhos ficam no dispositivo, a menos que um adulto partilhe um. O Squiggo nunca pede acesso à sua fototeca: o seletor do sistema partilha apenas a imagem que escolher. A <a href=\"privacy.html\">política de privacidade</a> completa diz o mesmo com mais pormenor."
+  },
+  "mac": {
+    "icon": "💻",
+    "h": "Feito para o Mac",
+    "p": "Desenhe com o rato ou o trackpad, aproxime com os dedos, use os atalhos de teclado e arraste um desenho do Finder. Também no iPhone e no iPad."
+  },
+  "requires": "Requer um iPhone ou iPad com iOS 17 ou posterior, ou um Mac com macOS 14 Sonoma ou posterior. Os tablets Android estão a caminho.",
+  "faq": {
+    "h": "Perguntas que os adultos fazem",
+    "items": [
+      [
+        "Para que idades é?",
+        "Crianças que gostam de desenhar, com um adulto por perto para começar."
+      ],
+      [
+        "Precisa de internet?",
+        "Não. O Squiggo não tem acesso à rede."
+      ],
+      [
+        "Há subscrição?",
+        "Não. Compra uma vez e fica seu em todos os dispositivos."
+      ],
+      [
+        "Para onde vão os desenhos?",
+        "Ficam no dispositivo. Um adulto pode partilhar um de propósito."
+      ],
+      [
+        "O amigo de fotografia envia a minha foto?",
+        "Não. O motivo é separado do fundo no próprio dispositivo."
+      ]
+    ]
+  },
+  "final": {
+    "h": "Dê ao seu filho um amigo para desenhar.",
+    "cta": "Obter o Squiggo"
+  }
+}

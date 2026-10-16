@@ -1,0 +1,102 @@
+{
+  "tagline": "Dessinez avec un petit copain.",
+  "sub": "Un copain sympa montre comment dessiner, pas à pas, et fête chaque dessin terminé.",
+  "note": "Sans publicité. Sans compte. Sans réseau. Un seul achat, sur Mac, iPhone et iPad.",
+  "stats": [
+    [
+      "60",
+      "leçons"
+    ],
+    [
+      "12",
+      "scènes"
+    ],
+    [
+      "6",
+      "sons de boutons"
+    ],
+    [
+      "0",
+      "publicités"
+    ]
+  ],
+  "sections": [
+    {
+      "icon": "✏️",
+      "h": "Dessinez pas à pas",
+      "p": "Suivez la ligne pointillée, touchez les cercles, coloriez les formes. Le copain dit chaque étape à voix haute et la fête avec une à trois étoiles. Le score ne dit jamais « faux » : un trait tremblant compte aussi.",
+      "chips": [
+        "Facile",
+        "Moyen",
+        "Difficile",
+        "Héros de dessins animés",
+        "Héros de contes"
+      ]
+    },
+    {
+      "icon": "🌈",
+      "h": "Dessinez à votre façon",
+      "p": "Choisissez une leçon ou l'une des 12 scènes, d'un village ensoleillé à un voyage dans l'espace, et ses fines lignes pointillées apparaissent sur votre page. Utilisez tous les outils, les couleurs et le zoom. Un petit dessin terminé flotte à côté de la page pour y jeter un œil."
+    },
+    {
+      "icon": "🖍️",
+      "h": "Une boîte de vrais outils d'artiste",
+      "p": "Crayon gras, feutre, pinceau, paillettes et six formes d'autocollants. Un arc-en-ciel de couleurs et un mélangeur : touchez deux couleurs ou plus et regardez-les se mêler. Annulez et rétablissez tout, gommez seulement l'encre que vous touchez, et déplacez, redimensionnez, tournez, recolorez ou copiez n'importe quel dessin."
+    },
+    {
+      "icon": "🐻",
+      "h": "Créez votre propre copain",
+      "p": "Choisissez un copain intégré, dessinez-en un ou transformez une photo en copain. Squiggo détache le sujet de son arrière-plan directement sur votre appareil. Ajoutez des yeux rigolos, une bouche, des sourcils, des cheveux et des lunettes, choisissez comment il bouge et donnez-lui un nom qu'il dira à voix haute."
+    },
+    {
+      "icon": "🖼️",
+      "h": "Mon mur",
+      "p": "Les dessins terminés s'affichent sur un mur avec des punaises et des étoiles. Ouvrez-en un, glissez vers le suivant ou copiez-le pour continuer à peindre."
+    },
+    {
+      "icon": "🔔",
+      "h": "Sons doux, voix douce",
+      "p": "Chaque toucher rebondit et joue un son tout doux. Choisissez l'un des six styles ou coupez-les. Le copain lit chaque étape à voix haute, et un seul interrupteur coupe la voix."
+    }
+  ],
+  "privacy": {
+    "icon": "🔒",
+    "h": "Confidentialité dès la conception",
+    "pHtml": "Sans publicité, sans compte, sans suivi et sans aucun accès au réseau. Les dessins restent sur votre appareil, sauf si un adulte en partage un. Squiggo ne demande jamais l'accès à votre photothèque : le sélecteur du système ne partage que l'image que vous choisissez. La <a href=\"privacy.html\">politique de confidentialité</a> complète dit la même chose, plus en détail."
+  },
+  "mac": {
+    "icon": "💻",
+    "h": "Pensé pour le Mac",
+    "p": "Dessinez à la souris ou au trackpad, pincez pour zoomer, utilisez les raccourcis clavier et glissez un dessin depuis le Finder. Aussi sur iPhone et iPad."
+  },
+  "requires": "Nécessite un iPhone ou un iPad avec iOS 17 ou version ultérieure, ou un Mac avec macOS 14 Sonoma ou version ultérieure. Les tablettes Android arrivent bientôt.",
+  "faq": {
+    "h": "Questions des adultes",
+    "items": [
+      [
+        "Pour quel âge ?",
+        "Pour les enfants qui aiment dessiner, avec un adulte à proximité pour démarrer."
+      ],
+      [
+        "Faut-il Internet ?",
+        "Non. Squiggo n'a aucun accès au réseau."
+      ],
+      [
+        "Y a-t-il un abonnement ?",
+        "Non. Un seul achat, et c'est à vous sur tous vos appareils."
+      ],
+      [
+        "Où vont les dessins ?",
+        "Ils restent sur votre appareil. Un adulte peut en partager un volontairement."
+      ],
+      [
+        "Le copain photo envoie-t-il ma photo ?",
+        "Non. Le sujet est détaché de l'arrière-plan sur votre appareil."
+      ]
+    ]
+  },
+  "final": {
+    "h": "Offrez à votre enfant un copain pour dessiner.",
+    "cta": "Obtenir Squiggo"
+  }
+}

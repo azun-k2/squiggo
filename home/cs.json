@@ -1,0 +1,102 @@
+{
+  "tagline": "Kreslete s malým kamarádem.",
+  "sub": "Přátelský kamarád ukazuje, jak kreslit, krok za krokem, a oslaví každý dokončený obrázek.",
+  "note": "Žádné reklamy. Žádné účty. Žádná síť. Jedna platba, na Macu, iPhonu i iPadu.",
+  "stats": [
+    [
+      "60",
+      "lekcí"
+    ],
+    [
+      "12",
+      "scén"
+    ],
+    [
+      "6",
+      "zvuků tlačítek"
+    ],
+    [
+      "0",
+      "reklam"
+    ]
+  ],
+  "sections": [
+    {
+      "icon": "✏️",
+      "h": "Kreslete spolu, krok za krokem",
+      "p": "Sledujte tečkovanou čáru, klepejte na kroužky, vybarvujte tvary. Kamarád každý krok řekne nahlas a oslaví ho jednou až třemi hvězdičkami. Hodnocení nikdy neřekne „špatně“: i roztřesená čára se počítá.",
+      "chips": [
+        "Snadné",
+        "Střední",
+        "Záludné",
+        "Kreslení kamarádi",
+        "Pohádkoví kamarádi"
+      ]
+    },
+    {
+      "icon": "🌈",
+      "h": "Kreslete po svém",
+      "p": "Vyberte libovolnou lekci nebo jednu z 12 scén, od slunné vesnice po výlet do vesmíru, a její jemné tečkované čáry se objeví na vaší stránce. Používejte všechny nástroje, barvy i zoom. Vedle stránky plave malý hotový obrázek na nahlédnutí."
+    },
+    {
+      "icon": "🖍️",
+      "h": "Krabice opravdových výtvarných pomůcek",
+      "p": "Pastelka, fix, štětec, třpytky a šest tvarů samolepek. Duha barev a míchátko barev: klepněte na dvě nebo více barev a sledujte, jak se mísí. Vraťte a znovu proveďte cokoli, gumujte jen inkoust, kterého se dotknete, a jakýkoli obrázek posuňte, zvětšete, otočte, přebarvěte nebo zkopírujte."
+    },
+    {
+      "icon": "🐻",
+      "h": "Vytvořte si vlastního kamaráda",
+      "p": "Vyberte hotového kamaráda, nakreslete ho nebo proměňte fotku v kamaráda. Squiggo oddělí postavu od pozadí přímo ve vašem zařízení. Přidejte kulaté oči, pusu, obočí, vlasy a brýle, zvolte, jak se hýbe, a dejte mu jméno, které řekne nahlas."
+    },
+    {
+      "icon": "🖼️",
+      "h": "Moje zeď",
+      "p": "Hotové obrázky se vyvěsí na zeď s připínáčky a hvězdičkami. Otevřete obrázek, přejeďte na další nebo ho zkopírujte a malujte dál."
+    },
+    {
+      "icon": "🔔",
+      "h": "Jemné zvuky, hodný hlas",
+      "p": "Každé klepnutí poskočí a ozve se jemný zvuk. Vyberte jeden ze šesti stylů nebo je vypněte. Kamarád čte každý krok nahlas a jedním přepínačem hlas vypnete."
+    }
+  ],
+  "privacy": {
+    "icon": "🔒",
+    "h": "Soukromí od základu",
+    "pHtml": "Žádné reklamy, žádné účty, žádné sledování a vůbec žádný přístup k síti. Obrázky zůstávají ve vašem zařízení, dokud nějaký nenasdílí dospělý. Squiggo nikdy nežádá o přístup do vaší knihovny fotek: systémový výběr sdílí jen ten jeden obrázek, který vyberete. Úplné <a href=\"privacy.html\">zásady ochrany soukromí</a> říkají totéž podrobněji."
+  },
+  "mac": {
+    "icon": "💻",
+    "h": "Stvořeno pro Mac",
+    "p": "Kreslete myší nebo trackpadem, přibližujte stažením prstů, používejte klávesové zkratky a přetáhněte obrázek z Finderu. K dispozici i na iPhonu a iPadu."
+  },
+  "requires": "Vyžaduje iPhone nebo iPad s iOS 17 nebo novějším, nebo Mac s macOS 14 Sonoma nebo novějším. Tablety s Androidem se připravují.",
+  "faq": {
+    "h": "Otázky, které dospělí kladou",
+    "items": [
+      [
+        "Pro jaký věk je určena?",
+        "Pro děti, které rády kreslí, s dospělým nablízku na začátek."
+      ],
+      [
+        "Potřebuje internet?",
+        "Ne. Squiggo nemá žádný přístup k síti."
+      ],
+      [
+        "Je v ní předplatné?",
+        "Ne. Zaplatíte jednou a máte ji na všech zařízeních."
+      ],
+      [
+        "Kam se obrázky ukládají?",
+        "Zůstávají ve vašem zařízení. Dospělý může obrázek nasdílet záměrně."
+      ],
+      [
+        "Nahrává kamarád z fotky moji fotku?",
+        "Ne. Postava se od pozadí odděluje ve vašem zařízení."
+      ]
+    ]
+  },
+  "final": {
+    "h": "Dopřejte svému dítěti kamaráda na kreslení.",
+    "cta": "Získat Squiggo"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "tagline": "Küçük bir arkadaşla birlikte çiz.",
+  "sub": "Sevimli bir arkadaş adım adım nasıl çizileceğini gösterir ve biten her resme sevinir.",
+  "note": "Reklam yok. Hesap yok. Ağ yok. Bir kez satın al; Mac, iPhone ve iPad'de kullan.",
+  "stats": [
+    [
+      "60",
+      "ders"
+    ],
+    [
+      "12",
+      "sahne"
+    ],
+    [
+      "6",
+      "düğme sesi"
+    ],
+    [
+      "0",
+      "reklam"
+    ]
+  ],
+  "sections": [
+    {
+      "icon": "✏️",
+      "h": "Adım adım birlikte çiz",
+      "p": "Noktalı çizgiyi izle, halkalara dokun, şekilleri boya. Arkadaş her adımı sesli söyler ve bir ile üç yıldızla kutlar. Puanlama asla «yanlış» demez: titrek bir çizgi de sayılır.",
+      "chips": [
+        "Kolay",
+        "Orta",
+        "Zor",
+        "Çizgi film arkadaşları",
+        "Hikâye kitabı arkadaşları"
+      ]
+    },
+    {
+      "icon": "🌈",
+      "h": "Kendi tarzında çiz",
+      "p": "Herhangi bir ders ya da güneşli bir köyden uzay yolculuğuna kadar 12 sahneden birini seç; ince noktalı çizgiler sayfanda belirir. Tüm araçları, renkleri ve yakınlaştırmayı kullan. Bitmiş küçük bir resim sayfanın yanında süzülür, istediğinde göz atabilirsin."
+    },
+    {
+      "icon": "🖍️",
+      "h": "Gerçek sanat araçlarından oluşan bir kutu",
+      "p": "Pastel boya, keçeli kalem, fırça, simli boya ve altı çıkartma şekli. Gökkuşağı gibi renkler ve bir renk karıştırıcı: iki ya da daha fazla renge dokun, karışmalarını izle. Her şeyi geri al ve yinele, yalnızca dokunduğun mürekkebi sil; herhangi bir çizimi taşı, boyutlandır, döndür, yeniden renklendir veya kopyala."
+    },
+    {
+      "icon": "🐻",
+      "h": "Kendi arkadaşını yap",
+      "p": "Hazır bir arkadaş seç, bir tane çiz ya da bir fotoğrafı arkadaşa dönüştür. Squiggo konuyu arka plandan doğrudan cihazında ayırır. Fıldır fıldır gözler, ağız, kaşlar, saç ve gözlük ekle, nasıl hareket edeceğini seç ve sesli söyleyeceği bir isim ver."
+    },
+    {
+      "icon": "🖼️",
+      "h": "Duvarım",
+      "p": "Biten resimler raptiyeler ve yıldızlarla bir duvara asılır. Birini aç, sonrakine kaydır ya da boyamaya devam etmek için kopyala."
+    },
+    {
+      "icon": "🔔",
+      "h": "Yumuşak sesler, nazik bir ses",
+      "p": "Her dokunuş zıplar ve hoş bir ses çalar. Altı stilden birini seç ya da kapat. Arkadaş her adımı sesli okur ve tek bir düğme sesi kapatır."
+    }
+  ],
+  "privacy": {
+    "icon": "🔒",
+    "h": "Tasarımdan gelen gizlilik",
+    "pHtml": "Reklam, hesap, izleme ve hiç ağ erişimi yok. Bir yetişkin paylaşmadıkça resimler cihazda kalır. Squiggo fotoğraf arşivinizi asla istemez: sistem seçicisi yalnızca seçtiğiniz tek resmi paylaşır. Tam <a href=\"privacy.html\">gizlilik politikası</a> aynı şeyi daha ayrıntılı anlatır."
+  },
+  "mac": {
+    "icon": "💻",
+    "h": "Mac için tasarlandı",
+    "p": "Fare veya izleme dörtgeniyle çiz, kıstırarak yakınlaştır, klavye kısayollarını kullan ve Finder'dan bir resmi sürükleyip bırak. iPhone ve iPad'de de var."
+  },
+  "requires": "iOS 17 veya sonrasını çalıştıran bir iPhone ya da iPad, veya macOS 14 Sonoma veya sonrasını çalıştıran bir Mac gerekir. Android tabletler yolda.",
+  "faq": {
+    "h": "Yetişkinlerin sorduğu sorular",
+    "items": [
+      [
+        "Hangi yaşlar için?",
+        "Çizmeyi seven çocuklar için; başlangıçta yanlarında bir yetişkin olsun."
+      ],
+      [
+        "İnternet gerekir mi?",
+        "Hayır. Squiggo'nun ağ erişimi yok."
+      ],
+      [
+        "Abonelik var mı?",
+        "Hayır. Bir kez satın alırsınız, tüm cihazlarınızda sizin olur."
+      ],
+      [
+        "Resimler nereye gider?",
+        "Cihazınızda kalır. Bir yetişkin isteyerek paylaşabilir."
+      ],
+      [
+        "Fotoğraftan arkadaş fotoğrafımı yükler mi?",
+        "Hayır. Konu, arka plandan cihazda ayrılır."
+      ]
+    ]
+  },
+  "final": {
+    "h": "Çocuğunuza çizim arkadaşı verin.",
+    "cta": "Squiggo'yu edinin"
+  }
+}

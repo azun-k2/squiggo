@@ -1,0 +1,102 @@
+{
+  "tagline": "Rysuj razem z przyjaznym kumplem.",
+  "sub": "Przyjazny kumpel pokazuje krok po kroku, jak rysować, i cieszy się z każdego skończonego obrazka.",
+  "note": "Bez reklam. Bez kont. Bez sieci. Kup raz, na Maca, iPhone’a i iPada.",
+  "stats": [
+    [
+      "60",
+      "lekcji"
+    ],
+    [
+      "12",
+      "scen"
+    ],
+    [
+      "6",
+      "dźwięków przycisków"
+    ],
+    [
+      "0",
+      "reklam"
+    ]
+  ],
+  "sections": [
+    {
+      "icon": "✏️",
+      "h": "Rysuj razem, krok po kroku",
+      "p": "Podążaj za kropkowaną linią, dotykaj kółek, koloruj kształty. Kumpel mówi każdy krok na głos i świętuje jedną do trzech gwiazdek. Punktacja nigdy nie mówi „źle”: nawet drżąca linia się liczy.",
+      "chips": [
+        "Łatwe",
+        "Średni",
+        "Podchwytliwe",
+        "Postaci z bajek",
+        "Przyjaciele z bajek"
+      ]
+    },
+    {
+      "icon": "🌈",
+      "h": "Rysuj po swojemu",
+      "p": "Wybierz dowolną lekcję lub jedną z 12 scen, od słonecznej wioski po podróż w kosmos, a jej delikatne kropkowane linie pojawią się na Twojej stronie. Używaj wszystkich narzędzi, kolorów i powiększania. Mały gotowy obrazek unosi się obok strony, żeby można było na niego zerknąć."
+    },
+    {
+      "icon": "🖍️",
+      "h": "Pudełko prawdziwych narzędzi",
+      "p": "Kredka, marker, pędzel, brokat i sześć kształtów naklejek. Tęcza kolorów i mieszalnik: dotknij dwóch lub więcej kolorów i patrz, jak się mieszają. Cofaj i ponawiaj wszystko, wymazuj tylko tusz, którego dotkniesz, i przesuwaj, zmieniaj rozmiar, obracaj, zmieniaj kolor lub kopiuj dowolny rysunek."
+    },
+    {
+      "icon": "🐻",
+      "h": "Stwórz własnego kumpla",
+      "p": "Wybierz wbudowanego kumpla, narysuj go albo zamień zdjęcie w kumpla. Squiggo oddziela postać od tła bezpośrednio na urządzeniu. Dodaj wesołe oczka, usta, brwi, włosy i okulary, wybierz, jak się porusza, i nadaj mu imię, które powie na głos."
+    },
+    {
+      "icon": "🖼️",
+      "h": "Moja ściana",
+      "p": "Gotowe obrazki trafiają na ścianę z pinezkami i gwiazdkami. Otwórz jeden, przesuń do następnego albo skopiuj go, by malować dalej."
+    },
+    {
+      "icon": "🔔",
+      "h": "Miękkie dźwięki, miły głos",
+      "p": "Każde dotknięcie podskakuje i gra delikatny dźwięk. Wybierz jeden z sześciu stylów albo je wyłącz. Kumpel czyta każdy krok na głos, a jeden przełącznik wyłącza głos."
+    }
+  ],
+  "privacy": {
+    "icon": "🔒",
+    "h": "Prywatność od podstaw",
+    "pHtml": "Bez reklam, kont, śledzenia i w ogóle bez dostępu do sieci. Obrazki zostają na urządzeniu, chyba że dorosły któryś udostępni. Squiggo nigdy nie prosi o dostęp do biblioteki zdjęć: systemowy wybieracz udostępnia tylko jeden wybrany obraz. Pełna <a href=\"privacy.html\">polityka prywatności</a> mówi to samo, ze szczegółami."
+  },
+  "mac": {
+    "icon": "💻",
+    "h": "Stworzone dla Maca",
+    "p": "Rysuj myszą lub gładzikiem, powiększaj szczypnięciem, używaj skrótów klawiszowych i przeciągaj obrazek z Findera. Dostępne też na iPhonie i iPadzie."
+  },
+  "requires": "Wymaga iPhone’a lub iPada z iOS 17 albo nowszym, lub Maca z macOS 14 Sonoma albo nowszym. Tablety z Androidem pojawią się wkrótce.",
+  "faq": {
+    "h": "Pytania, które zadają dorośli",
+    "items": [
+      [
+        "Dla kogo jest ta aplikacja?",
+        "Dla dzieci, które lubią rysować, z dorosłym w pobliżu na początek."
+      ],
+      [
+        "Czy potrzebuje internetu?",
+        "Nie. Squiggo nie ma dostępu do sieci."
+      ],
+      [
+        "Czy jest subskrypcja?",
+        "Nie. Kupujesz raz i masz na każdym urządzeniu."
+      ],
+      [
+        "Gdzie trafiają obrazki?",
+        "Zostają na urządzeniu. Dorosły może któryś udostępnić celowo."
+      ],
+      [
+        "Czy kumpel ze zdjęcia wysyła moje zdjęcie?",
+        "Nie. Postać jest oddzielana od tła na urządzeniu."
+      ]
+    ]
+  },
+  "final": {
+    "h": "Podaruj dziecku kumpla do rysowania.",
+    "cta": "Pobierz Squiggo"
+  }
+}

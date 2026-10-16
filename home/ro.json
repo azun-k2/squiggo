@@ -1,0 +1,102 @@
+{
+  "tagline": "Desenează alături de un prieten drăguț.",
+  "sub": "Un prieten blând arată cum se desenează, pas cu pas, și se bucură la fiecare desen terminat.",
+  "note": "Fără reclame. Fără conturi. Fără rețea. Cumperi o dată, pe Mac, iPhone și iPad.",
+  "stats": [
+    [
+      "60",
+      "lecții"
+    ],
+    [
+      "12",
+      "scene"
+    ],
+    [
+      "6",
+      "sunete de butoane"
+    ],
+    [
+      "0",
+      "reclame"
+    ]
+  ],
+  "sections": [
+    {
+      "icon": "✏️",
+      "h": "Desenează împreună, pas cu pas",
+      "p": "Urmează linia punctată, atinge cercurile, colorează formele. Prietenul spune fiecare pas cu voce tare și sărbătorește cu una până la trei stele. Punctajul nu spune niciodată «greșit»: și o linie tremurată contează.",
+      "chips": [
+        "Ușor",
+        "Mediu",
+        "Dificil",
+        "Prieteni din desene animate",
+        "Prieteni din cărțile de povești"
+      ]
+    },
+    {
+      "icon": "🌈",
+      "h": "Desenează în felul tău",
+      "p": "Alege orice lecție sau una dintre cele 12 scene, de la un sat însorit la o călătorie în spațiu, iar liniile punctate fine apar pe pagina ta. Folosește toate uneltele, culorile și zoomul. Un mic desen terminat plutește lângă pagină, ca să arunci o privire."
+    },
+    {
+      "icon": "🖍️",
+      "h": "O cutie cu unelte de artist adevărate",
+      "p": "Creion colorat, marker, pensulă, sclipici și șase forme de abțibilduri. Un curcubeu de culori și un mixer de culori: atinge două sau mai multe culori și privește-le cum se amestecă. Anulează și reface orice, șterge doar cerneala pe care o atingi și mută, redimensionează, rotește, recolorează sau copiază orice desen."
+    },
+    {
+      "icon": "🐻",
+      "h": "Creează-ți propriul prieten",
+      "p": "Alege un prieten gata făcut, desenează unul sau transformă o fotografie într-un prieten. Squiggo separă subiectul de fundal chiar pe dispozitivul tău. Adaugă ochi mari, gură, sprâncene, păr și ochelari, alege cum se mișcă și dă-i un nume pe care îl va rosti cu voce tare."
+    },
+    {
+      "icon": "🖼️",
+      "h": "Peretele meu",
+      "p": "Desenele terminate ajung pe un perete, cu piuneze și stele. Deschide unul, treci la următorul sau copiază-l ca să continui să pictezi."
+    },
+    {
+      "icon": "🔔",
+      "h": "Sunete line, voce blândă",
+      "p": "Fiecare atingere sare vesel, cu un sunet plăcut. Alege unul dintre cele șase stiluri sau oprește-le. Prietenul citește fiecare pas cu voce tare, iar un singur comutator oprește vocea."
+    }
+  ],
+  "privacy": {
+    "icon": "🔒",
+    "h": "Privat prin concepție",
+    "pHtml": "Fără reclame, fără conturi, fără urmărire și fără acces la rețea. Desenele rămân pe dispozitiv, în afară de cazul în care un adult le trimite mai departe. Squiggo nu îți cere niciodată fototeca: selectorul sistemului partajează doar imaginea pe care o alegi. <a href=\"privacy.html\">Politica de confidențialitate</a> completă spune același lucru, mai pe larg."
+  },
+  "mac": {
+    "icon": "💻",
+    "h": "Făcut pentru Mac",
+    "p": "Desenează cu mouse-ul sau trackpadul, mărește cu două degete, folosește scurtăturile de la tastatură și trage un desen direct din Finder. Disponibil și pe iPhone și iPad."
+  },
+  "requires": "Necesită un iPhone sau iPad cu iOS 17 sau mai nou, ori un Mac cu macOS 14 Sonoma sau mai nou. Tabletele Android vor veni în curând.",
+  "faq": {
+    "h": "Întrebări pe care le pun adulții",
+    "items": [
+      [
+        "Pentru ce vârste este?",
+        "Pentru copiii cărora le place să deseneze, cu un adult prin preajmă la început."
+      ],
+      [
+        "Are nevoie de internet?",
+        "Nu. Squiggo nu are acces la rețea."
+      ],
+      [
+        "Există abonament?",
+        "Nu. Cumperi o dată și e al tău pe toate dispozitivele."
+      ],
+      [
+        "Unde ajung desenele?",
+        "Rămân pe dispozitiv. Un adult poate trimite unul dinadins."
+      ],
+      [
+        "Prietenul din fotografie îmi încarcă poza?",
+        "Nu. Subiectul este separat de fundal chiar pe dispozitiv."
+      ]
+    ]
+  },
+  "final": {
+    "h": "Dă-i copilului tău un prieten de desen.",
+    "cta": "Descarcă Squiggo"
+  }
+}

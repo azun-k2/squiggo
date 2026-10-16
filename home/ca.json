@@ -1,0 +1,102 @@
+{
+  "tagline": "Dibuixa amb un amiguet.",
+  "sub": "Un amic simpàtic t'ensenya a dibuixar, pas a pas, i celebra cada dibuix acabat.",
+  "note": "Sense anuncis. Sense comptes. Sense xarxa. Una sola compra, per a Mac, iPhone i iPad.",
+  "stats": [
+    [
+      "60",
+      "lliçons"
+    ],
+    [
+      "12",
+      "escenes"
+    ],
+    [
+      "6",
+      "sons de botons"
+    ],
+    [
+      "0",
+      "anuncis"
+    ]
+  ],
+  "sections": [
+    {
+      "icon": "✏️",
+      "h": "Dibuixa pas a pas",
+      "p": "Segueix la línia de punts, toca els cercles i pinta les formes. L'amic diu cada pas en veu alta i ho celebra amb d'una a tres estrelles. La puntuació mai diu «malament»: una línia tremolosa també compta.",
+      "chips": [
+        "Fàcil",
+        "Mitjà",
+        "Difícil",
+        "Amics de dibuixos",
+        "Amics de conte"
+      ]
+    },
+    {
+      "icon": "🌈",
+      "h": "Dibuixa a la teva manera",
+      "p": "Tria qualsevol lliçó o una de les 12 escenes, d'un poble assolellat a un viatge a l'espai, i les seves línies de punts fines apareixen a la teva pàgina. Fes servir totes les eines, colors i el zoom. Un petit dibuix acabat sura al costat de la pàgina per fer-hi una ullada."
+    },
+    {
+      "icon": "🖍️",
+      "h": "Una caixa d'eines d'art de debò",
+      "p": "Cera, retolador, pinzell, purpurina i sis formes d'adhesius. Un arc de Sant Martí de colors i un mesclador: toca dos o més colors i mira com es barregen. Desfés i refés-ho tot, esborra només la tinta que toques, i mou, canvia la mida, gira, torna a pintar o copia qualsevol dibuix."
+    },
+    {
+      "icon": "🐻",
+      "h": "Crea el teu propi amic",
+      "p": "Tria un amic de sèrie, dibuixa'n un o converteix una foto en amic. Squiggo separa el subjecte del fons directament al teu dispositiu. Afegeix ulls saltarins, boca, celles, cabells i ulleres, tria com es mou i posa-li un nom que dirà en veu alta."
+    },
+    {
+      "icon": "🖼️",
+      "h": "La meva paret",
+      "p": "Els dibuixos acabats pugen a una paret amb xinxetes i estrelles. Obre'n un, llisca cap al següent o copia'l per continuar pintant."
+    },
+    {
+      "icon": "🔔",
+      "h": "Sons suaus, veu amable",
+      "p": "Cada toc rebota i fa un so delicat. Tria un de sis estils o desactiva'ls. L'amic llegeix cada pas en veu alta, i un sol interruptor apaga la veu."
+    }
+  ],
+  "privacy": {
+    "icon": "🔒",
+    "h": "Privat de disseny",
+    "pHtml": "Sense anuncis, sense comptes, sense seguiment i sense cap accés a la xarxa. Els dibuixos es queden al teu dispositiu tret que un adult en comparteixi un. Squiggo mai demana la teva fototeca: el selector del sistema comparteix només la imatge que tries. La <a href=\"privacy.html\">política de privadesa</a> completa diu el mateix amb més detall."
+  },
+  "mac": {
+    "icon": "💻",
+    "h": "Pensat per al Mac",
+    "p": "Dibuixa amb el ratolí o el trackpad, pessiga per fer zoom, fes servir les dreceres de teclat i arrossega un dibuix des del Finder. També a l'iPhone i l'iPad."
+  },
+  "requires": "Requereix un iPhone o un iPad amb iOS 17 o posterior, o un Mac amb macOS 14 Sonoma o posterior. Les tauletes Android arribaran aviat.",
+  "faq": {
+    "h": "Preguntes que fan els adults",
+    "items": [
+      [
+        "Per a quines edats és?",
+        "Per a nens als quals els agrada dibuixar, amb un adult a prop per començar."
+      ],
+      [
+        "Cal internet?",
+        "No. Squiggo no té accés a la xarxa."
+      ],
+      [
+        "Hi ha subscripció?",
+        "No. Una sola compra i és teu a tots els dispositius."
+      ],
+      [
+        "On van els dibuixos?",
+        "Es queden al teu dispositiu. Un adult en pot compartir un a propòsit."
+      ],
+      [
+        "L'amic de foto puja la meva foto?",
+        "No. El subjecte se separa del fons al teu dispositiu."
+      ]
+    ]
+  },
+  "final": {
+    "h": "Regala un amic per dibuixar als més petits.",
+    "cta": "Obtén Squiggo"
+  }
+}

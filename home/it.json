@@ -1,0 +1,102 @@
+{
+  "tagline": "Disegna insieme a un amico simpatico.",
+  "sub": "Un amico simpatico mostra come disegnare, un passo alla volta, e fa il tifo per ogni disegno finito.",
+  "note": "Niente pubblicità. Niente account. Niente rete. Si compra una volta, per Mac, iPhone e iPad.",
+  "stats": [
+    [
+      "60",
+      "lezioni"
+    ],
+    [
+      "12",
+      "scene"
+    ],
+    [
+      "6",
+      "suoni dei pulsanti"
+    ],
+    [
+      "0",
+      "pubblicità"
+    ]
+  ],
+  "sections": [
+    {
+      "icon": "✏️",
+      "h": "Disegna insieme, passo dopo passo",
+      "p": "Segui la linea tratteggiata, tocca gli anelli, colora le forme. L'amico dice ogni passo a voce alta e festeggia con da una a tre stelle. Il punteggio non dice mai «sbagliato»: anche una linea tremolante conta.",
+      "chips": [
+        "Facile",
+        "Medio",
+        "Difficile",
+        "Amici dei cartoni",
+        "Amici dei libri di fiabe"
+      ]
+    },
+    {
+      "icon": "🌈",
+      "h": "Disegna a modo tuo",
+      "p": "Scegli una lezione qualsiasi o una delle 12 scene, da un villaggio soleggiato a un viaggio nello spazio, e le sue sottili linee tratteggiate compaiono sulla tua pagina. Usa tutti gli strumenti, i colori e lo zoom. Un piccolo disegno finito fluttua accanto alla pagina per darci un'occhiata."
+    },
+    {
+      "icon": "🖍️",
+      "h": "Una scatola di veri strumenti artistici",
+      "p": "Pastello, pennarello, pennello, glitter e sei forme di adesivi. Un arcobaleno di colori e un miscelatore: tocca due o più colori e guardali fondersi. Annulla e ripristina tutto, cancella solo l'inchiostro che tocchi e sposta, ridimensiona, ruota, ricolora o copia qualsiasi disegno."
+    },
+    {
+      "icon": "🐻",
+      "h": "Crea il tuo amico",
+      "p": "Scegli un amico già pronto, disegnane uno o trasforma una foto in un amico. Squiggo separa il soggetto dallo sfondo direttamente sul tuo dispositivo. Aggiungi occhi buffi, bocca, sopracciglia, capelli e occhiali, scegli come si muove e dagli un nome che dirà a voce alta."
+    },
+    {
+      "icon": "🖼️",
+      "h": "La mia parete",
+      "p": "I disegni finiti vanno su una parete con puntine e stelle. Aprine uno, scorri al successivo o copialo per continuare a colorare."
+    },
+    {
+      "icon": "🔔",
+      "h": "Suoni morbidi, voce gentile",
+      "p": "Ogni tocco rimbalza e fa un suono delicato. Scegli uno dei sei stili o disattivali. L'amico legge ogni passo a voce alta, e un solo interruttore spegne la voce."
+    }
+  ],
+  "privacy": {
+    "icon": "🔒",
+    "h": "Privato per progetto",
+    "pHtml": "Niente pubblicità, niente account, niente tracciamento e nessun accesso alla rete. I disegni restano sul dispositivo a meno che un adulto non ne condivida uno. Squiggo non chiede mai la tua libreria foto: il selettore di sistema condivide solo l'unica immagine che scegli. L'<a href=\"privacy.html\">informativa sulla privacy</a> completa dice lo stesso, con più dettagli."
+  },
+  "mac": {
+    "icon": "💻",
+    "h": "Fatta per il Mac",
+    "p": "Disegna con il mouse o il trackpad, pizzica per fare zoom, usa le scorciatoie da tastiera e trascina un disegno dal Finder. Disponibile anche su iPhone e iPad."
+  },
+  "requires": "Richiede un iPhone o iPad con iOS 17 o successivo, oppure un Mac con macOS 14 Sonoma o successivo. I tablet Android arriveranno presto.",
+  "faq": {
+    "h": "Le domande dei genitori",
+    "items": [
+      [
+        "Per quale età è?",
+        "Per i bambini a cui piace disegnare, con un adulto vicino per iniziare."
+      ],
+      [
+        "Serve internet?",
+        "No. Squiggo non ha accesso alla rete."
+      ],
+      [
+        "C'è un abbonamento?",
+        "No. Si compra una volta ed è tuo su ogni dispositivo."
+      ],
+      [
+        "Dove vanno i disegni?",
+        "Restano sul dispositivo. Un adulto può condividerne uno di proposito."
+      ],
+      [
+        "L'amico da foto carica la mia foto?",
+        "No. Il soggetto viene separato dallo sfondo sul tuo dispositivo."
+      ]
+    ]
+  },
+  "final": {
+    "h": "Regala a tuo figlio un amico per disegnare.",
+    "cta": "Scarica Squiggo"
+  }
+}

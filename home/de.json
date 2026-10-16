@@ -1,0 +1,102 @@
+{
+  "tagline": "Zeichne mit einem kleinen Freund.",
+  "sub": "Ein netter kleiner Freund zeigt Schritt für Schritt, wie man zeichnet, und feiert jedes fertige Bild.",
+  "note": "Keine Werbung. Keine Konten. Kein Netzwerk. Einmal kaufen, für Mac, iPhone und iPad.",
+  "stats": [
+    [
+      "60",
+      "Lektionen"
+    ],
+    [
+      "12",
+      "Szenen"
+    ],
+    [
+      "6",
+      "Tastentöne"
+    ],
+    [
+      "0",
+      "Werbung"
+    ]
+  ],
+  "sections": [
+    {
+      "icon": "✏️",
+      "h": "Zeichne mit, Schritt für Schritt",
+      "p": "Folge der gepunkteten Linie, tippe auf die Ringe, male die Formen aus. Der Freund sagt jeden Schritt laut an und feiert mit einem bis drei Sternen. Die Wertung sagt nie „falsch“: Auch eine wackelige Linie zählt.",
+      "chips": [
+        "Leicht",
+        "Mittel",
+        "Knifflig",
+        "Comicfreunde",
+        "Märchenfreunde"
+      ]
+    },
+    {
+      "icon": "🌈",
+      "h": "Zeichne auf deine Art",
+      "p": "Wähle eine beliebige Lektion oder eine von 12 Szenen, vom sonnigen Dorf bis zur Weltraumreise, und ihre feinen gepunkteten Linien erscheinen auf deiner Seite. Nutze alle Werkzeuge, Farben und den Zoom. Neben der Seite schwebt ein kleines fertiges Bild zum Hinschauen."
+    },
+    {
+      "icon": "🖍️",
+      "h": "Ein Kasten voller echter Mal-Werkzeuge",
+      "p": "Wachsmalstift, Filzstift, Pinsel, Glitzer und sechs Aufkleberformen. Ein Regenbogen von Farben und ein Farbmischer: Tippe zwei oder mehr Farben an und sieh zu, wie sie sich mischen. Mache alles rückgängig oder stelle es wieder her, radiere nur die Farbe, die du berührst, und verschiebe, vergrößere, drehe, färbe um oder kopiere jede Zeichnung."
+    },
+    {
+      "icon": "🐻",
+      "h": "Erfinde deinen eigenen Freund",
+      "p": "Wähle einen eingebauten Freund, zeichne einen oder mach aus einem Foto einen Freund. Squiggo löst das Motiv direkt auf deinem Gerät vom Hintergrund. Füge Wackelaugen, Mund, Augenbrauen, Haare und Brille hinzu, wähle, wie er sich bewegt, und gib ihm einen Namen, den er laut sagt."
+    },
+    {
+      "icon": "🖼️",
+      "h": "Meine Wand",
+      "p": "Fertige Bilder hängen mit Pinnnadeln und Sternen an einer Wand. Öffne eins, wische zum nächsten oder kopiere es, um weiterzumalen."
+    },
+    {
+      "icon": "🔔",
+      "h": "Sanfte Töne, freundliche Stimme",
+      "p": "Jedes Tippen hüpft und spielt einen sanften Ton. Wähle einen von sechs Stilen oder schalte sie aus. Der Freund liest jeden Schritt laut vor, und ein Schalter schaltet die Stimme aus."
+    }
+  ],
+  "privacy": {
+    "icon": "🔒",
+    "h": "Datenschutz von Grund auf",
+    "pHtml": "Keine Werbung, keine Konten, kein Tracking und überhaupt kein Netzwerkzugriff. Bilder bleiben auf deinem Gerät, solange kein Erwachsener eines teilt. Squiggo fragt nie nach deiner Fotomediathek: Die Systemauswahl gibt nur das eine Bild frei, das du wählst. Die vollständige <a href=\"privacy.html\">Datenschutzerklärung</a> sagt dasselbe ausführlicher."
+  },
+  "mac": {
+    "icon": "💻",
+    "h": "Gemacht für den Mac",
+    "p": "Zeichne mit Maus oder Trackpad, zoome mit zwei Fingern, nutze die Tastaturkurzbefehle und ziehe ein Bild aus dem Finder hinein. Auch für iPhone und iPad."
+  },
+  "requires": "Erfordert ein iPhone oder iPad mit iOS 17 oder neuer oder einen Mac mit macOS 14 Sonoma oder neuer. Android-Tablets folgen.",
+  "faq": {
+    "h": "Fragen, die Erwachsene stellen",
+    "items": [
+      [
+        "Für welches Alter ist es?",
+        "Für Kinder, die gern zeichnen, mit einem Erwachsenen in der Nähe zum Start."
+      ],
+      [
+        "Braucht es Internet?",
+        "Nein. Squiggo hat keinen Netzwerkzugriff."
+      ],
+      [
+        "Gibt es ein Abo?",
+        "Nein. Einmal kaufen, und es gehört dir auf jedem Gerät."
+      ],
+      [
+        "Wohin gehen die Bilder?",
+        "Sie bleiben auf deinem Gerät. Ein Erwachsener kann eines gezielt teilen."
+      ],
+      [
+        "Lädt der Fotofreund mein Foto hoch?",
+        "Nein. Das Motiv wird auf deinem Gerät vom Hintergrund gelöst."
+      ]
+    ]
+  },
+  "final": {
+    "h": "Schenke deinem Kind einen Zeichenfreund.",
+    "cta": "Squiggo laden"
+  }
+}

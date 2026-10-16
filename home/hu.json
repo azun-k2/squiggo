@@ -1,0 +1,102 @@
+{
+  "tagline": "Rajzolj egy barátságos társsal.",
+  "sub": "Egy barátságos társ lépésről lépésre megmutatja, hogyan kell rajzolni, és megünnepel minden kész képet.",
+  "note": "Nincs reklám. Nincs fiók. Nincs hálózat. Egyszer kell megvenni, Macre, iPhone-ra és iPadre.",
+  "stats": [
+    [
+      "60",
+      "lecke"
+    ],
+    [
+      "12",
+      "jelenet"
+    ],
+    [
+      "6",
+      "gombhang"
+    ],
+    [
+      "0",
+      "reklám"
+    ]
+  ],
+  "sections": [
+    {
+      "icon": "✏️",
+      "h": "Rajzolj együtt, lépésről lépésre",
+      "p": "Kövesd a pontozott vonalat, koppints a karikákra, színezd ki az alakzatokat. A társ hangosan kimondja minden lépést, és egy-három csillaggal ünnepel. A pontozás sosem mondja, hogy „rossz”: egy remegő vonal is számít.",
+      "chips": [
+        "Könnyű",
+        "Közepes",
+        "Trükkös",
+        "Rajzfilmes cimborák",
+        "Mesekönyv-barátok"
+      ]
+    },
+    {
+      "icon": "🌈",
+      "h": "Rajzolj a magad módján",
+      "p": "Válassz bármelyik leckét vagy a 12 jelenet egyikét, a napsütötte falutól az űrutazásig, és finom pontozott vonalai megjelennek az oldaladon. Használj minden eszközt, színt és nagyítást. Egy kis kész kép lebeg az oldal mellett, hogy belepillanthass."
+    },
+    {
+      "icon": "🖍️",
+      "h": "Egy doboznyi igazi rajzeszköz",
+      "p": "Zsírkréta, filctoll, ecset, csillogás és hatféle matrica. A színek szivárványa és egy színkeverő: koppints két vagy több színre, és nézd, ahogy összeolvadnak. Vonj vissza és ismételj meg mindent, csak az érintett festéket töröld, és mozgass, méretezz át, forgass, színezz át vagy másolj bármilyen rajzot."
+    },
+    {
+      "icon": "🐻",
+      "h": "Készítsd el a saját társad",
+      "p": "Válassz beépített társat, rajzolj egyet, vagy alakíts egy fényképet társsá. A Squiggo közvetlenül az eszközödön választja le az alakot a háttérről. Adj hozzá mozgó szemeket, szájat, szemöldököt, hajat és szemüveget, válaszd ki, hogyan mozogjon, és adj neki nevet, amelyet hangosan kimond."
+    },
+    {
+      "icon": "🖼️",
+      "h": "A falam",
+      "p": "A kész képek tűkkel és csillagokkal felkerülnek a falra. Nyiss meg egyet, lapozz a következőre, vagy másold le, hogy tovább festhess."
+    },
+    {
+      "icon": "🔔",
+      "h": "Halk hangok, kedves hang",
+      "p": "Minden koppintás megpattan, és szelíd hangot ad. Válassz a hat stílus közül, vagy kapcsold ki őket. A társ hangosan felolvassa minden lépést, és egyetlen kapcsolóval kikapcsolható a hang."
+    }
+  ],
+  "privacy": {
+    "icon": "🔒",
+    "h": "Alapból privát",
+    "pHtml": "Nincs reklám, nincs fiók, nincs követés, és egyáltalán nincs hálózati hozzáférés. A képek az eszközön maradnak, hacsak egy felnőtt meg nem oszt egyet. A Squiggo sosem kéri a fotótárat: a rendszerválasztó csak az általad kiválasztott egyetlen képet osztja meg. A teljes <a href=\"privacy.html\">adatvédelmi irányelvek</a> ugyanezt mondják részletesebben."
+  },
+  "mac": {
+    "icon": "💻",
+    "h": "Macre tervezve",
+    "p": "Rajzolj egérrel vagy trackpaddel, nagyíts csippentéssel, használd a billentyűparancsokat, és húzz be képet a Finderből. iPhone-on és iPaden is elérhető."
+  },
+  "requires": "iOS 17 vagy újabb rendszerű iPhone-t vagy iPadet, illetve macOS 14 Sonoma vagy újabb rendszerű Macet igényel. Az Android táblagépes változat hamarosan érkezik.",
+  "faq": {
+    "h": "Kérdések, amelyeket a felnőttek feltesznek",
+    "items": [
+      [
+        "Hány éves kortól való?",
+        "Rajzolni szerető gyerekeknek, az elején egy felnőtt segítségével."
+      ],
+      [
+        "Kell hozzá internet?",
+        "Nem. A Squiggónak nincs hálózati hozzáférése."
+      ],
+      [
+        "Van előfizetés?",
+        "Nincs. Egyszer kell megvenni, és minden eszközödön a tiéd."
+      ],
+      [
+        "Hová kerülnek a képek?",
+        "Az eszközödön maradnak. Egy felnőtt szándékosan megoszthat egyet."
+      ],
+      [
+        "Feltölti a fényképes társ a fotómat?",
+        "Nem. Az alakot az eszközödön választja le a háttérről."
+      ]
+    ]
+  },
+  "final": {
+    "h": "Ajándékozz a gyermekednek egy rajzoló társat.",
+    "cta": "Szerezd meg a Squiggót"
+  }
+}
