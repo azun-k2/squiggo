@@ -2,14 +2,14 @@
   "tagline": "Draw along with a little buddy.",
   "sub": "A friendly buddy shows how to draw, one step at a time, and cheers every finished picture.",
   "note": "No ads. No accounts. No network. Buy once, on Mac, iPhone and iPad.",
-  "stats": [["60", "lessons"], ["12", "scenes"], ["6", "button sounds"], ["0", "ads"]],
+  "stats": [["72", "lessons"], ["12", "scenes"], ["6", "magic tools"], ["0", "ads"]],
   "sections": [
-    {"icon": "✏️", "h": "Draw along, step by step", "p": "Follow the dotted line, tap the rings, colour in the shapes. The buddy says each step aloud and celebrates with one to three stars. Scoring never says \"wrong\": a wobbly line still counts.", "chips": ["Easy", "Medium", "Tricky", "Cartoon pals", "Storybook friends"]},
-    {"icon": "🌈", "h": "Draw it your own way", "p": "Pick any lesson or one of 12 scenes, from a sunny village to a space trip, and its fine dotted lines appear on your page. Use every tool, colour and zoom. A little finished picture floats beside the page to peek at."},
-    {"icon": "🖍️", "h": "A box of real art tools", "p": "Crayon, marker, paint brush, glitter and six sticker shapes. A rainbow of colours and a colour mixer: tap two or more colours and watch them blend. Undo and redo everything, erase only the ink you touch, and move, resize, turn, recolour or copy any drawing."},
+    {"icon": "✏️", "h": "Draw along, step by step", "p": "Follow the dotted line, tap the rings, colour in the shapes. The buddy says each step aloud and celebrates with one to three stars. Scoring never says \"wrong\": a wobbly line still counts.", "chips": ["Easy", "Medium", "Tricky", "Cartoon pals", "Storybook friends", "Yummy treats"]},
+    {"icon": "🎨", "h": "Magic Art Tools", "p": "One-tap bucket fill that hugs the lines, a rainbow brush that flows through every hue, and a neon glow pen that shines softly. Plus classic crayon, marker, paintbrush, glitter, and stickers with real tactile drawing sounds."},
+    {"icon": "🎬", "h": "Watch It Draw (Timelapse Replay)", "p": "Relive every brushstroke in a delightful animated timelapse replay with your personal pencil leading the way, ending with cheerful cheers and celebratory confetti!"},
     {"icon": "🐻", "h": "Make your own buddy", "p": "Choose a built-in buddy, draw one, or turn a photo into a buddy. Squiggo lifts the subject off its background right on your device. Add googly eyes, a mouth, eyebrows, hair and glasses, choose how it moves, and give it a name it will say out loud."},
-    {"icon": "🖼️", "h": "My Wall", "p": "Finished pictures go up on a wall with pins and stars. Open one, swipe to the next, or copy it to keep painting."},
-    {"icon": "🔔", "h": "Soft sounds, kind voice", "p": "Every tap bounces and plays a gentle sound. Pick one of six styles or switch them off. The buddy reads each step aloud, and one switch turns the voice off."}
+    {"icon": "🖼️", "h": "My Wall & Collectible Frames", "p": "Finished pictures go up on your personal gallery wall. Dress your masterpieces in handcrafted frames: Warm Wood, Rainbow Ribbon, Starry Galaxy, or Candy Cane swirl."},
+    {"icon": "🔔", "h": "Tactile sounds & kind voice", "p": "Real waxy crayon friction, felt-tip glides, bubbly paint plops, and gentle cheerful encouragement in 34 languages. No internet required, ever."}
   ],
   "privacy": {"icon": "🔒", "h": "Private by design", "pHtml": "No ads, no accounts, no tracking and no network access at all. Pictures stay on your device unless a grown-up shares one. Squiggo never asks for your photo library: the system picker shares only the one picture you choose. The full <a href=\"privacy.html\">privacy policy</a> says the same in more detail."},
   "mac": {"icon": "💻", "h": "Made for the Mac", "p": "Draw with the mouse or trackpad, pinch to zoom, use the keyboard shortcuts, and drag a picture in from the Finder. Also on iPhone and iPad."},

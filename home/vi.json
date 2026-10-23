@@ -4,7 +4,7 @@
   "note": "Không quảng cáo. Không tài khoản. Không dùng mạng. Mua một lần, dùng trên Mac, iPhone và iPad.",
   "stats": [
     [
-      "60",
+      "72",
       "bài học"
     ],
     [
@@ -13,7 +13,7 @@
     ],
     [
       "6",
-      "âm thanh nút bấm"
+      "công cụ ma thuật"
     ],
     [
       "0",
@@ -30,18 +30,19 @@
         "Vừa",
         "Khó",
         "Bạn hoạt hình",
-        "Bạn trong truyện"
+        "Bạn trong truyện",
+        "Món ngon ngọt"
       ]
     },
     {
-      "icon": "🌈",
-      "h": "Vẽ theo cách của riêng bạn",
-      "p": "Chọn bất kỳ bài học nào hoặc một trong 12 khung cảnh, từ ngôi làng đầy nắng đến chuyến du hành vũ trụ, và các đường chấm mảnh sẽ hiện trên trang của bạn. Dùng mọi công cụ, màu sắc và thu phóng. Một bức tranh nhỏ đã hoàn thành lơ lửng bên cạnh trang để bạn xem lén."
+      "icon": "🎨",
+      "h": "Bộ công cụ ma thuật",
+      "p": "Thùng sơn ma thuật tô màu kín chỉ với một chạm thông minh ôm sát nét viền, bút Cầu vồng lướt tới đâu đổi màu rực rỡ tới đó, cùng bút Dạ quang phát sáng lung linh huyền ảo. Đi kèm bút sáp, bút dạ, kim tuyến và các âm thanh vẽ chân thật."
     },
     {
-      "icon": "🖍️",
-      "h": "Một hộp dụng cụ vẽ thật sự",
-      "p": "Bút sáp màu, bút dạ, cọ vẽ, kim tuyến và sáu hình dán. Cả cầu vồng màu sắc và bộ pha màu: chạm vào hai màu trở lên và xem chúng hòa vào nhau. Hoàn tác và làm lại mọi thứ, chỉ xóa nét mực bạn chạm vào, và di chuyển, đổi kích thước, xoay, đổi màu hoặc sao chép bất kỳ hình vẽ nào."
+      "icon": "🎬",
+      "h": "Xem lại quá trình vẽ (Timelapse)",
+      "p": "Xem lại từng nét bút được tái hiện sinh động như một thước phim ngắn 10 giây với cây bút chì nhảy múa, kết thúc bằng tiếng reo hò rộn rã và pháo hoa chúc mừng!"
     },
     {
       "icon": "🐻",
@@ -50,13 +51,13 @@
     },
     {
       "icon": "🖼️",
-      "h": "Bức tường của tôi",
-      "p": "Tranh hoàn thành được treo lên tường với ghim và sao. Mở một bức, vuốt sang bức tiếp theo hoặc sao chép để tiếp tục tô vẽ."
+      "h": "Bức tường & Khung tranh nghệ thuật",
+      "p": "Những bức tranh hoàn thành được treo trang trọng lên tường triển lãm. Lồng tranh vào những chiếc khung độc đáo: Gỗ sồi ấm áp, Dải ruy băng Cầu vồng, Ngân hà ngàn sao, hoặc Kẹo gậy xoắn ngọt ngào."
     },
     {
       "icon": "🔔",
-      "h": "Âm thanh dịu nhẹ, giọng nói dễ thương",
-      "p": "Mỗi lần chạm đều nảy lên kèm một âm thanh nhẹ nhàng. Chọn một trong sáu kiểu hoặc tắt hết. Bạn đồng hành đọc to từng bước, và một công tắc là tắt được giọng nói."
+      "h": "Âm thanh chân thật & giọng nói ấm áp",
+      "p": "Tiếng sáp màu sột soạt, bút dạ lướt êm, thùng sơn kêu «bõm» vui tai cùng lời khen ngợi ngọt ngào bằng tiếng Việt và 33 ngôn ngữ khác. Hoàn toàn chạy offline không cần mạng."
     }
   ],
   "privacy": {
