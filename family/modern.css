@@ -2047,13 +2047,15 @@ body:has(.shot) .card ul > li > strong:first-child,
 
 /* Defensive text overflow guard across all 34 languages */
 .lunette-stage, .pausette-stage, .tallette-stage, .probette-stage,
-.bindette-stage, .lettrette-stage, .pinette-stage, .usagette-stage, .foreman-stage {
+.bindette-stage, .lettrette-stage, .pinette-stage, .usagette-stage, .foreman-stage,
+.lunarette-stage, .nhanhtay-stage {
   max-width: 100%;
   overflow-x: clip;
 }
 .lunette-item-val, .lunette-item-lbl, .pausette-prompt-title, .pausette-prompt-desc,
 .tallette-tape-row, .probette-spec-val, .probette-spec-lbl, .bindette-ch-row,
-.lettrette-subject, .lettrette-body, .pinette-item, .foreman-table td {
+.lettrette-subject, .lettrette-body, .pinette-item, .foreman-table td,
+.lunarette-item-val, .lunarette-item-lbl, .lunarette-lunar-title, .nhanhtay-prompt, .nhanhtay-btn {
   overflow-wrap: anywhere;
   word-break: break-word;
 }
@@ -2064,4 +2066,282 @@ body:has(.shot) .card ul > li > strong:first-child,
   height: auto;
   min-height: 36px;
   padding: 6px 14px;
+}
+
+/* 20. LUNARETTE INTERACTIVE LUNAR CALENDAR & TRADITIONS STAGE */
+.lunarette-stage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 18px;
+  padding: 26px 18px;
+  background: linear-gradient(135deg, #161726 0%, #0d0e1a 100%);
+  border: 2px solid rgba(224, 112, 58, 0.35);
+  border-radius: 20px;
+  box-shadow: 0 35px 85px rgba(0, 0, 0, 0.45);
+}
+@media (prefers-color-scheme: light) {
+  .lunarette-stage {
+    background: linear-gradient(135deg, #fdfbf7 0%, #f7f1e6 100%);
+    border: 1.5px solid rgba(224, 112, 58, 0.25);
+    box-shadow: 0 20px 50px rgba(180, 80, 40, 0.08);
+  }
+}
+.lunarette-display {
+  background: rgba(0, 0, 0, 0.35);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 16px;
+  padding: 20px 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  max-width: 480px;
+  width: 100%;
+  text-align: center;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+}
+@media (prefers-color-scheme: light) {
+  .lunarette-display {
+    background: #ffffff;
+    border: 1px solid rgba(224, 112, 58, 0.18);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.04);
+  }
+}
+.lunarette-header-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+}
+.lunarette-moon-badge {
+  font-size: 34px;
+  filter: drop-shadow(0 0 14px rgba(255, 215, 0, 0.5));
+}
+.lunarette-lunar-title {
+  font-size: clamp(20px, 3.8vw, 26px);
+  font-weight: 850;
+  color: #ffb076;
+  letter-spacing: -0.5px;
+}
+@media (prefers-color-scheme: light) {
+  .lunarette-lunar-title { color: #d04f1a; }
+}
+.lunarette-solar-sub {
+  font-size: 14px;
+  font-weight: 650;
+  color: var(--muted);
+}
+.lunarette-fest-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 5px 14px;
+  border-radius: 999px;
+  font-size: 13px;
+  font-weight: 750;
+  background: rgba(224, 112, 58, 0.22);
+  color: #ff9d66;
+  border: 1px solid rgba(224, 112, 58, 0.35);
+}
+@media (prefers-color-scheme: light) {
+  .lunarette-fest-pill {
+    background: #fff0e8;
+    color: #c4400e;
+    border-color: #f7cbba;
+  }
+}
+.lunarette-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  max-width: 480px;
+  width: 100%;
+}
+@media (min-width: 540px) {
+  .lunarette-grid { grid-template-columns: repeat(4, 1fr); }
+}
+.lunarette-card-item {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 12px;
+  padding: 12px 10px;
+  text-align: center;
+}
+@media (prefers-color-scheme: light) {
+  .lunarette-card-item {
+    background: #ffffff;
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.03);
+  }
+}
+.lunarette-item-val {
+  font-size: 14px;
+  font-weight: 750;
+  color: #fff;
+  margin-bottom: 2px;
+}
+@media (prefers-color-scheme: light) {
+  .lunarette-item-val { color: #212529; }
+}
+.lunarette-item-lbl {
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
+}
+.lunarette-chips {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+/* 21. NHANH TAY INTERACTIVE SPEED QUIZ STAGE */
+.nhanhtay-stage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 18px;
+  padding: 26px 18px;
+  background: linear-gradient(135deg, #17113a 0%, #0d0922 100%);
+  border: 2px solid rgba(120, 80, 250, 0.4);
+  border-radius: 20px;
+  box-shadow: 0 35px 85px rgba(0, 0, 0, 0.45);
+}
+@media (prefers-color-scheme: light) {
+  .nhanhtay-stage {
+    background: linear-gradient(135deg, #f7f3ff 0%, #ebe2fd 100%);
+    border: 1.5px solid rgba(75, 46, 230, 0.25);
+    box-shadow: 0 20px 50px rgba(75, 46, 230, 0.08);
+  }
+}
+.nhanhtay-quiz-card {
+  background: rgba(0, 0, 0, 0.4);
+  border: 1px solid rgba(139, 92, 246, 0.3);
+  border-radius: 18px;
+  padding: 22px 24px;
+  max-width: 480px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.3);
+}
+@media (prefers-color-scheme: light) {
+  .nhanhtay-quiz-card {
+    background: #ffffff;
+    border: 1px solid rgba(75, 46, 230, 0.2);
+    box-shadow: 0 8px 24px rgba(75, 46, 230, 0.05);
+  }
+}
+.nhanhtay-top-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 13px;
+  font-weight: 750;
+  color: #ffc933;
+}
+@media (prefers-color-scheme: light) {
+  .nhanhtay-top-bar { color: #5b21b6; }
+}
+.nhanhtay-timer-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 4px 10px;
+  border-radius: 999px;
+  background: rgba(255, 201, 51, 0.18);
+  border: 1px solid rgba(255, 201, 51, 0.35);
+  font-variant-numeric: tabular-nums;
+}
+.nhanhtay-prompt {
+  font-size: 17px;
+  font-weight: 800;
+  line-height: 1.4;
+  color: #ffffff;
+}
+@media (prefers-color-scheme: light) {
+  .nhanhtay-prompt { color: #17123d; }
+}
+.nhanhtay-options {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+}
+.nhanhtay-btn {
+  background: #251b54;
+  border: 2px solid rgba(139, 92, 246, 0.3);
+  border-radius: 12px;
+  padding: 14px 10px;
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 750;
+  cursor: pointer;
+  user-select: none;
+  box-shadow: 0 4px 0 #140d32;
+  transition: all 0.1s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  position: relative;
+}
+@media (prefers-color-scheme: light) {
+  .nhanhtay-btn {
+    background: #f0ebff;
+    border: 2px solid rgba(75, 46, 230, 0.2);
+    box-shadow: 0 4px 0 #cfc2f7;
+    color: #17123d;
+  }
+}
+.nhanhtay-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 0 #140d32;
+}
+@media (prefers-color-scheme: light) {
+  .nhanhtay-btn:hover { box-shadow: 0 6px 0 #cfc2f7; }
+}
+.nhanhtay-btn:active, .nhanhtay-btn.picked {
+  transform: translateY(3px);
+  box-shadow: 0 1px 0 #140d32;
+  background: #3e2888;
+  border-color: #ffc933;
+}
+@media (prefers-color-scheme: light) {
+  .nhanhtay-btn:active, .nhanhtay-btn.picked {
+    box-shadow: 0 1px 0 #cfc2f7;
+    background: #e1d4ff;
+    border-color: #4b2ee6;
+  }
+}
+.nhanhtay-btn.correct {
+  background: #059669 !important;
+  border-color: #34d399 !important;
+  box-shadow: 0 2px 0 #047857 !important;
+  color: #ffffff !important;
+}
+.nhanhtay-order-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: #ffc933;
+  color: #17123d;
+  font-size: 11px;
+  font-weight: 850;
+  position: absolute;
+  top: 6px;
+  right: 6px;
+}
+.nhanhtay-status-msg {
+  text-align: center;
+  font-size: 13px;
+  font-weight: 750;
+  min-height: 20px;
+  color: #a78bfa;
 }
