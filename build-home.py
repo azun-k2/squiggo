@@ -15,22 +15,30 @@ def dev(up, n, cls):
 
 # The promotion videos (Squiggo/Scripts/promo-videos.py), language-neutral: one copy in video/ for every page.
 # Each card's title reuses a string the page already has (a section heading or the tagline).
-VIDEOS = [("draw", "tall", 0), ("buddy", "tall", 3), ("scenes", "feed", 1), ("tools", "wide", 2), ("teaser", "wide", "tagline")]
+VIDEOS = [
+    ("draw", "tall", 0, "23s"),
+    ("buddy", "tall", 3, "22s"),
+    ("scenes", "feed", 1, "24s"),
+    ("tools", "wide", 2, "24s"),
+    ("teaser", "wide", "tagline", "21s"),
+]
 
 
 def videos(d, up):
     out = []
-    for name, shape, title in VIDEOS:
+    for name, shape, title, dur in VIDEOS:
         t = e(d["tagline"] if title == "tagline" else d["sections"][title]["h"])
         out.append(f'<a class="sq-vcard {shape}" href="{up}video/{name}.mp4" data-video data-title="{t}" data-poster="{up}video/{name}.jpg" data-shape="{shape}">'
-                   f'<img src="{up}video/{name}.jpg" alt="" loading="lazy"><span class="play"></span><span class="cap">{t}</span></a>')
+                   f'<img src="{up}video/{name}.jpg" alt="" loading="lazy">'
+                   f'<span class="sq-vbadge"><svg viewBox="0 0 24 24" width="11" height="11" fill="currentColor" style="vertical-align:middle;margin-right:4px"><polygon points="6 4 20 12 6 20 6 4"/></svg>{dur}</span>'
+                   f'<span class="play"></span><span class="cap">{t}</span></a>')
     return f'<div class="sq-videos" data-close="{e(d["close"])}">{"".join(out)}</div>\n<script src="{up}video.js" defer></script>'
 
 
-def section(s):
+def section(s, idx=0):
     chips = "".join(f"<li>{e(c)}</li>" for c in s.get("chips", []))
     chips = f'\n  <ul class="sq-chips">{chips}</ul>' if chips else ""
-    return (f'<section class="card sq-sec"><span class="sq-ico" aria-hidden="true">{s["icon"]}</span>\n  <h2>{e(s["h"])}</h2>\n'
+    return (f'<section class="card sq-sec sq-sec-{idx}"><span class="sq-ico" aria-hidden="true">{s["icon"]}</span>\n  <h2>{e(s["h"])}</h2>\n'
             f'  <p>{e(s["p"])}</p>{chips}\n</section>\n')
 
 
@@ -46,20 +54,20 @@ def page_html(d, up):
 {videos(d, up)}
 
 <!-- family:shot --><div class="gallery">{dev(up, 2, "c")}{dev(up, 1, "l")}{dev(up, 4, "r")}</div><!-- /family:shot -->
-{section(s[0])}
-{section(s[1])}
-{section(s[2])}
+{section(s[0], 0)}
+{section(s[1], 1)}
+{section(s[2], 2)}
 <!-- family:shot2 --><div class="pair">{dev(up, 3, "")}{dev(up, 5, "")}</div><!-- /family:shot2 -->
 
-{section(s[3])}
-{section(s[4])}
-{section(s[5])}
+{section(s[3], 3)}
+{section(s[4], 4)}
+{section(s[5], 5)}
 <section class="card sq-sec sq-band"><span class="sq-ico" aria-hidden="true">{p["icon"]}</span>
   <h2>{e(p["h"])}</h2>
   <p>{p["pHtml"]}</p>
 </section>
 
-<section class="card sq-sec"><span class="sq-ico" aria-hidden="true">{m["icon"]}</span>
+<section class="card sq-sec sq-mac"><span class="sq-ico" aria-hidden="true">{m["icon"]}</span>
   <h2>{e(m["h"])}</h2>
   <p>{e(m["p"])}</p>
   <p class="note">{e(d["requires"])}</p>
